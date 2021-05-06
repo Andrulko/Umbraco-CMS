@@ -3,3 +3,4 @@ files:
     translation: /src/Umbraco.Web.UI/umbraco/config/lang/%two_letters_code%.xml
     translate_attributes: 0
     content_segmentation: 0
+    type: webxml
