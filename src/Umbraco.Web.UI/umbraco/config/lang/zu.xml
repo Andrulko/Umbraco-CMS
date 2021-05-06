@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<language alias="en" intName="English (UK)" localName="English (UK)" lcid="" culture="en-GB">
+    <creator>
+        <name>crwdns171072:0crwdne171072:0</name>
+        <link>crwdns171074:0crwdne171074:0</link>
+    </creator>
+    <area alias="actions">
+        <key alias="assignDomain">crwdns171076:0crwdne171076:0</key>
+        <key alias="auditTrail">crwdns171078:0crwdne171078:0</key>
+        <key alias="browse">crwdns171080:0crwdne171080:0</key>
+        <key alias="changeDocType">crwdns171082:0crwdne171082:0</key>
+        <key alias="copy">crwdns171084:0crwdne171084:0</key>
+        <key alias="create">crwdns171086:0crwdne171086:0</key>
+        <key alias="export">crwdns171088:0crwdne171088:0</key>
+        <key alias="createPackage">crwdns171090:0crwdne171090:0</key>
+        <key alias="createGroup">crwdns171092:0crwdne171092:0</key>
+        <key alias="delete">crwdns171094:0crwdne171094:0</key>
+        <key alias="disable">crwdns171096:0crwdne171096:0</key>
+        <key alias="emptyTrashcan">crwdns171098:0crwdne171098:0</key>
+        <key alias="enable">crwdns171100:0crwdne171100:0</key>
+        <key alias="exportDocumentType">crwdns171102:0crwdne171102:0</key>
+        <key alias="importDocumentType">crwdns171104:0crwdne171104:0</key>
+        <key alias="importPackage">crwdns171106:0crwdne171106:0</key>
+        <key alias="liveEdit">crwdns171108:0crwdne171108:0</key>
+        <key alias="logout">crwdns171110:0crwdne171110:0</key>
+        <key alias="move">crwdns171112:0crwdne171112:0</key>
+        <key alias="notify">crwdns171114:0crwdne171114:0</key>
+        <key alias="protect">crwdns171116:0crwdne171116:0</key>
+        <key alias="publish">crwdns171118:0crwdne171118:0</key>
+        <key alias="unpublish">crwdns171120:0crwdne171120:0</key>
+        <key alias="refreshNode">crwdns171122:0crwdne171122:0</key>
+        <key alias="republish">crwdns171124:0crwdne171124:0</key>
+        <key alias="rename" version="7.3.0">crwdns171126:0crwdne171126:0</key>
+        <key alias="restore" version="7.3.0">crwdns171128:0crwdne171128:0</key>
+        <key alias="SetPermissionsForThePage">crwdns171130:0%0crwdne171130:0</key>
+        <key alias="chooseWhereToCopy">crwdns171132:0crwdne171132:0</key>
+        <key alias="chooseWhereToMove">crwdns171134:0crwdne171134:0</key>
+        <key alias="toInTheTreeStructureBelow">crwdns171136:0crwdne171136:0</key>
+        <key alias="wasMovedTo">crwdns171138:0crwdne171138:0</key>
+        <key alias="wasCopiedTo">crwdns171140:0crwdne171140:0</key>
+        <key alias="wasDeleted">crwdns171142:0crwdne171142:0</key>
+        <key alias="rights">crwdns171144:0crwdne171144:0</key>
+        <key alias="rollback">crwdns171146:0crwdne171146:0</key>
+        <key alias="sendtopublish">crwdns171148:0crwdne171148:0</key>
+        <key alias="sendToTranslate">crwdns171150:0crwdne171150:0</key>
+        <key alias="setGroup">crwdns171152:0crwdne171152:0</key>
+        <key alias="sort">crwdns171154:0crwdne171154:0</key>
+        <key alias="translate">crwdns171156:0crwdne171156:0</key>
+        <key alias="update">crwdns171158:0crwdne171158:0</key>
+        <key alias="setPermissions">crwdns171160:0crwdne171160:0</key>
+        <key alias="unlock">crwdns171162:0crwdne171162:0</key>
+        <key alias="createblueprint">crwdns171164:0crwdne171164:0</key>
+        <key alias="resendInvite">crwdns171166:0crwdne171166:0</key>
+    </area>
+    <area alias="actionCategories">
+        <key alias="content">crwdns171168:0crwdne171168:0</key>
+        <key alias="administration">crwdns171170:0crwdne171170:0</key>
+        <key alias="structure">crwdns171172:0crwdne171172:0</key>
+        <key alias="other">crwdns171174:0crwdne171174:0</key>
+    </area>
+    <area alias="actionDescriptions">
+        <key alias="assignDomain">crwdns171176:0crwdne171176:0</key>
+        <key alias="auditTrail">crwdns171178:0crwdne171178:0</key>
+        <key alias="browse">crwdns171180:0crwdne171180:0</key>
+        <key alias="changeDocType">crwdns171182:0crwdne171182:0</key>
+        <key alias="copy">crwdns171184:0crwdne171184:0</key>
+        <key alias="create">crwdns171186:0crwdne171186:0</key>
+        <key alias="delete">crwdns171188:0crwdne171188:0</key>
+        <key alias="move">crwdns171190:0crwdne171190:0</key>
+        <key alias="protect">crwdns171192:0crwdne171192:0</key>
+        <key alias="publish">crwdns171194:0crwdne171194:0</key>
+        <key alias="rights">crwdns171196:0crwdne171196:0</key>
+        <key alias="rollback">crwdns171198:0crwdne171198:0</key>
+        <key alias="sendtopublish">crwdns171200:0crwdne171200:0</key>
+        <key alias="sendToTranslate">crwdns171202:0crwdne171202:0</key>
+        <key alias="sort">crwdns171204:0crwdne171204:0</key>
+        <key alias="translate">crwdns171206:0crwdne171206:0</key>
+        <key alias="update">crwdns171208:0crwdne171208:0</key>
+        <key alias="createblueprint">crwdns171210:0crwdne171210:0</key>
+    </area>
+    <area alias="assignDomain">
+        <key alias="permissionDenied">crwdns171212:0crwdne171212:0</key>
+        <key alias="addNew">crwdns171214:0crwdne171214:0</key>
+        <key alias="remove">crwdns171216:0crwdne171216:0</key>
+        <key alias="invalidNode">crwdns171218:0crwdne171218:0</key>
+        <key alias="invalidDomain">crwdns171220:0crwdne171220:0</key>
+        <key alias="duplicateDomain">crwdns171222:0crwdne171222:0</key>
+        <key alias="language">crwdns171224:0crwdne171224:0</key>
+        <key alias="domain">crwdns171226:0crwdne171226:0</key>
+        <key alias="domainCreated">crwdns171228:0%0crwdne171228:0</key>
+        <key alias="domainDeleted">crwdns171230:0%0crwdne171230:0</key>
+        <key alias="domainExists">crwdns171232:0%0crwdne171232:0</key>
+        <key alias="domainUpdated">crwdns171234:0%0crwdne171234:0</key>
+        <key alias="orEdit">crwdns171236:0crwdne171236:0</key>
+        <key alias="domainHelp"><![CDATA[crwdns171238:0crwdne171238:0]]></key>
+        <key alias="inherit">crwdns171240:0crwdne171240:0</key>
+        <key alias="setLanguage">crwdns171242:0crwdne171242:0</key>
+        <key alias="setLanguageHelp"><![CDATA[crwdns171244:0crwdne171244:0]]></key>
+        <key alias="setDomains">crwdns171246:0crwdne171246:0</key>
+    </area>
+    <area alias="buttons">
+        <key alias="clearSelection">crwdns171248:0crwdne171248:0</key>
+        <key alias="select">crwdns171250:0crwdne171250:0</key>
+        <key alias="selectCurrentFolder">crwdns171252:0crwdne171252:0</key>
+        <key alias="somethingElse">crwdns171254:0crwdne171254:0</key>
+        <key alias="bold">crwdns171256:0crwdne171256:0</key>
+        <key alias="deindent">crwdns171258:0crwdne171258:0</key>
+        <key alias="formFieldInsert">crwdns171260:0crwdne171260:0</key>
+        <key alias="graphicHeadline">crwdns171262:0crwdne171262:0</key>
+        <key alias="htmlEdit">crwdns171264:0crwdne171264:0</key>
+        <key alias="indent">crwdns171266:0crwdne171266:0</key>
+        <key alias="italic">crwdns171268:0crwdne171268:0</key>
+        <key alias="justifyCenter">crwdns171270:0crwdne171270:0</key>
+        <key alias="justifyLeft">crwdns171272:0crwdne171272:0</key>
+        <key alias="justifyRight">crwdns171274:0crwdne171274:0</key>
+        <key alias="linkInsert">crwdns171276:0crwdne171276:0</key>
+        <key alias="linkLocal">crwdns171278:0crwdne171278:0</key>
+        <key alias="listBullet">crwdns171280:0crwdne171280:0</key>
+        <key alias="listNumeric">crwdns171282:0crwdne171282:0</key>
+        <key alias="macroInsert">crwdns171284:0crwdne171284:0</key>
+        <key alias="pictureInsert">crwdns171286:0crwdne171286:0</key>
+        <key alias="relations">crwdns171288:0crwdne171288:0</key>
+        <key alias="returnToList">crwdns171290:0crwdne171290:0</key>
+        <key alias="save">crwdns171292:0crwdne171292:0</key>
+        <key alias="saveAndPublish">crwdns171294:0crwdne171294:0</key>
+        <key alias="saveAndSchedule">crwdns171296:0crwdne171296:0</key>
+        <key alias="saveToPublish">crwdns171298:0crwdne171298:0</key>
+        <key alias="saveListView">crwdns171300:0crwdne171300:0</key>
+        <key alias="showPage">crwdns171302:0crwdne171302:0</key>
+        <key alias="showPageDisabled">crwdns171304:0crwdne171304:0</key>
+        <key alias="styleChoose">crwdns171306:0crwdne171306:0</key>
+        <key alias="styleShow">crwdns171308:0crwdne171308:0</key>
+        <key alias="tableInsert">crwdns171310:0crwdne171310:0</key>
+        <key alias="generateModels">crwdns171312:0crwdne171312:0</key>
+        <key alias="saveAndGenerateModels">crwdns171314:0crwdne171314:0</key>
+        <key alias="undo">crwdns171316:0crwdne171316:0</key>
+        <key alias="redo">crwdns171318:0crwdne171318:0</key>
+        <key alias="deleteTag">crwdns171320:0crwdne171320:0</key>
+        <key alias="confirmActionCancel">crwdns171322:0crwdne171322:0</key>
+        <key alias="confirmActionConfirm">crwdns171324:0crwdne171324:0</key>
+    </area>
+    <area alias="auditTrails">
+        <key alias="atViewingFor">crwdns171326:0crwdne171326:0</key>
+        <key alias="delete">crwdns171328:0crwdne171328:0</key>
+        <key alias="unpublish">crwdns171330:0crwdne171330:0</key>
+        <key alias="publish">crwdns171332:0crwdne171332:0</key>
+        <key alias="save">crwdns171334:0crwdne171334:0</key>
+        <key alias="move">crwdns171336:0crwdne171336:0</key>
+        <key alias="copy">crwdns171338:0crwdne171338:0</key>
+        <key alias="rollback">crwdns171340:0crwdne171340:0</key>
+        <key alias="sendtopublish">crwdns171342:0crwdne171342:0</key>
+        <key alias="sendtotranslate">crwdns171344:0crwdne171344:0</key>
+        <key alias="sort">crwdns171346:0crwdne171346:0</key>
+        <key alias="smallCopy">crwdns171348:0crwdne171348:0</key>
+        <key alias="smallPublish">crwdns171350:0crwdne171350:0</key>
+        <key alias="smallMove">crwdns171352:0crwdne171352:0</key>
+        <key alias="smallSave">crwdns171354:0crwdne171354:0</key>
+        <key alias="smallDelete">crwdns171356:0crwdne171356:0</key>
+        <key alias="smallUnPublish">crwdns171358:0crwdne171358:0</key>
+        <key alias="smallRollBack">crwdns171360:0crwdne171360:0</key>
+        <key alias="smallSendToPublish">crwdns171362:0crwdne171362:0</key>
+        <key alias="smallSendToTranslate">crwdns171364:0crwdne171364:0</key>
+        <key alias="smallSort">crwdns171366:0crwdne171366:0</key>
+    </area>
+    <area alias="changeDocType">
+        <key alias="changeDocTypeInstruction">crwdns171368:0crwdne171368:0</key>
+        <key alias="changeDocTypeInstruction2">crwdns171370:0crwdne171370:0</key>
+        <key alias="contentRepublished">crwdns171372:0crwdne171372:0</key>
+        <key alias="currentProperty">crwdns171374:0crwdne171374:0</key>
+        <key alias="currentType">crwdns171376:0crwdne171376:0</key>
+        <key alias="docTypeCannotBeChanged">crwdns171378:0crwdne171378:0</key>
+        <key alias="docTypeChanged">crwdns171380:0crwdne171380:0</key>
+        <key alias="mapProperties">crwdns171382:0crwdne171382:0</key>
+        <key alias="mapToProperty">crwdns171384:0crwdne171384:0</key>
+        <key alias="newTemplate">crwdns171386:0crwdne171386:0</key>
+        <key alias="newType">crwdns171388:0crwdne171388:0</key>
+        <key alias="none">crwdns171390:0crwdne171390:0</key>
+        <key alias="selectedContent">crwdns171392:0crwdne171392:0</key>
+        <key alias="selectNewDocType">crwdns171394:0crwdne171394:0</key>
+        <key alias="successMessage">crwdns171396:0crwdne171396:0</key>
+        <key alias="to">crwdns171398:0crwdne171398:0</key>
+        <key alias="validationErrorPropertyWithMoreThanOneMapping">crwdns171400:0crwdne171400:0</key>
+        <key alias="validDocTypesNote">crwdns171402:0crwdne171402:0</key>
+    </area>
+    <area alias="codefile">
+        <key alias="createFolderFailedById">crwdns171404:0%0crwdne171404:0</key>
+        <key alias="createFolderFailedByName">crwdns171406:0%0crwdne171406:0</key>
+        <key alias="deleteItemFailed">crwdns171408:0%0crwdne171408:0</key>
+    </area>
+    <area alias="content">
+        <key alias="isPublished" version="7.2">crwdns171410:0crwdne171410:0</key>
+        <key alias="about">crwdns171412:0crwdne171412:0</key>
+        <key alias="alias">crwdns171414:0crwdne171414:0</key>
+        <key alias="alternativeTextHelp">crwdns171416:0crwdne171416:0</key>
+        <key alias="alternativeUrls">crwdns171418:0crwdne171418:0</key>
+        <key alias="clickToEdit">crwdns171420:0crwdne171420:0</key>
+        <key alias="createBy">crwdns171422:0crwdne171422:0</key>
+        <key alias="createByDesc" version="7.0">crwdns171424:0crwdne171424:0</key>
+        <key alias="updatedBy" version="7.0">crwdns171426:0crwdne171426:0</key>
+        <key alias="createDate">crwdns171428:0crwdne171428:0</key>
+        <key alias="createDateDesc" version="7.0">crwdns171430:0crwdne171430:0</key>
+        <key alias="documentType">crwdns171432:0crwdne171432:0</key>
+        <key alias="editing">crwdns171434:0crwdne171434:0</key>
+        <key alias="expireDate">crwdns171436:0crwdne171436:0</key>
+        <key alias="itemChanged">crwdns171438:0crwdne171438:0</key>
+        <key alias="itemNotPublished">crwdns171440:0crwdne171440:0</key>
+        <key alias="lastPublished">crwdns171442:0crwdne171442:0</key>
+        <key alias="noItemsToShow">crwdns171444:0crwdne171444:0</key>
+        <key alias="listViewNoItems" version="7.1.5">crwdns171446:0crwdne171446:0</key>
+        <key alias="listViewNoContent">crwdns171448:0crwdne171448:0</key>
+        <key alias="listViewNoMembers">crwdns171450:0crwdne171450:0</key>
+        <key alias="mediatype">crwdns171452:0crwdne171452:0</key>
+        <key alias="mediaLinks">crwdns171454:0crwdne171454:0</key>
+        <key alias="membergroup">crwdns171456:0crwdne171456:0</key>
+        <key alias="memberrole">crwdns171458:0crwdne171458:0</key>
+        <key alias="membertype">crwdns171460:0crwdne171460:0</key>
+        <key alias="noChanges">crwdns171462:0crwdne171462:0</key>
+        <key alias="noDate">crwdns171464:0crwdne171464:0</key>
+        <key alias="nodeName">crwdns171466:0crwdne171466:0</key>
+        <key alias="noMediaLink">crwdns171468:0crwdne171468:0</key>
+        <key alias="otherElements">crwdns171470:0crwdne171470:0</key>
+        <key alias="parentNotPublished">crwdns171472:0%0crwdne171472:0</key>
+        <key alias="parentNotPublishedAnomaly">crwdns171474:0crwdne171474:0</key>
+        <key alias="getUrlException">crwdns171476:0crwdne171476:0</key>
+        <key alias="routeError">crwdns171478:0%0crwdne171478:0</key>
+        <key alias="publish">crwdns171480:0crwdne171480:0</key>
+        <key alias="published">crwdns171482:0crwdne171482:0</key>
+        <key alias="publishedPendingChanges">crwdns171484:0crwdne171484:0</key>
+        <key alias="publishStatus">crwdns171486:0crwdne171486:0</key>
+        <key alias="releaseDate">crwdns171488:0crwdne171488:0</key>
+        <key alias="unpublishDate">crwdns171490:0crwdne171490:0</key>
+        <key alias="removeDate">crwdns171492:0crwdne171492:0</key>
+        <key alias="setDate">crwdns171494:0crwdne171494:0</key>
+        <key alias="sortDone">crwdns171496:0crwdne171496:0</key>
+        <key alias="sortHelp">crwdns171498:0crwdne171498:0</key>
+        <key alias="statistics">crwdns171500:0crwdne171500:0</key>
+        <key alias="titleOptional">crwdns171502:0crwdne171502:0</key>
+        <key alias="altTextOptional">crwdns171504:0crwdne171504:0</key>
+        <key alias="type">crwdns171506:0crwdne171506:0</key>
+        <key alias="unPublish">crwdns171508:0crwdne171508:0</key>
+        <key alias="unpublished">crwdns171510:0crwdne171510:0</key>
+        <key alias="updateDate">crwdns171512:0crwdne171512:0</key>
+        <key alias="updateDateDesc" version="7.0">crwdns171514:0crwdne171514:0</key>
+        <key alias="uploadClear">crwdns171516:0crwdne171516:0</key>
+        <key alias="urls">crwdns171518:0crwdne171518:0</key>
+        <key alias="memberof">crwdns171520:0crwdne171520:0</key>
+        <key alias="notmemberof">crwdns171522:0crwdne171522:0</key>
+        <key alias="childItems" version="7.0">crwdns171524:0crwdne171524:0</key>
+        <key alias="target" version="7.0">crwdns171526:0crwdne171526:0</key>
+        <key alias="scheduledPublishServerTime">crwdns171528:0crwdne171528:0</key>
+        <key alias="scheduledPublishDocumentation"><![CDATA[crwdns171530:0crwdne171530:0]]></key>
+        <key alias="nestedContentDeleteItem">crwdns171532:0crwdne171532:0</key>
+        <key alias="nestedContentEditorNotSupported">crwdns171534:0%0crwdnd171534:0%1crwdne171534:0</key>
+        <key alias="addTextBox">crwdns171536:0crwdne171536:0</key>
+        <key alias="removeTextBox">crwdns171538:0crwdne171538:0</key>
+        <key alias="contentRoot">crwdns171540:0crwdne171540:0</key>
+        <key alias="isSensitiveValue">crwdns171542:0crwdne171542:0</key>
+        <key alias="isSensitiveValue_short">crwdns171544:0crwdne171544:0</key>
+    </area>
+    <area alias="blueprints">
+        <key alias="createBlueprintFrom">crwdns171546:0%0crwdne171546:0</key>
+        <key alias="blankBlueprint">crwdns171548:0crwdne171548:0</key>
+        <key alias="selectBlueprint">crwdns171550:0crwdne171550:0</key>
+        <key alias="createdBlueprintHeading">crwdns171552:0crwdne171552:0</key>
+        <key alias="createdBlueprintMessage">crwdns171554:0%0crwdne171554:0</key>
+        <key alias="duplicateBlueprintMessage">crwdns171556:0crwdne171556:0</key>
+        <key alias="blueprintDescription">crwdns171558:0crwdne171558:0</key>
+    </area>
+    <area alias="media">
+        <key alias="clickToUpload">crwdns171560:0crwdne171560:0</key>
+        <key alias="dropFilesHere">crwdns171562:0crwdne171562:0</key>
+        <key alias="urls">crwdns171564:0crwdne171564:0</key>
+        <key alias="orClickHereToUpload">crwdns171566:0crwdne171566:0</key>
+        <key alias="dragFilesHereToUpload">crwdns171568:0crwdne171568:0</key>
+        <key alias="onlyAllowedFiles">crwdns171570:0crwdne171570:0</key>
+        <key alias="disallowedFileType">crwdns171572:0crwdne171572:0</key>
+        <key alias="maxFileSize">crwdns171574:0crwdne171574:0</key>
+        <key alias="mediaRoot">crwdns171576:0crwdne171576:0</key>
+        <key alias="moveFailed">crwdns171578:0crwdne171578:0</key>
+        <key alias="copyFailed">crwdns171580:0crwdne171580:0</key>
+        <key alias="createFolderFailed">crwdns171582:0%0crwdne171582:0</key>
+        <key alias="renameFolderFailed">crwdns171584:0%0crwdne171584:0</key>
+    </area>
+    <area alias="member">
+        <key alias="createNewMember">crwdns171586:0crwdne171586:0</key>
+        <key alias="allMembers">crwdns171588:0crwdne171588:0</key>
+    </area>
+    <area alias="create">
+        <key alias="chooseNode">crwdns171590:0%0crwdne171590:0</key>
+        <key alias="createUnder">crwdns171592:0crwdne171592:0</key>
+        <key alias="createContentBlueprint">crwdns171594:0crwdne171594:0</key>
+        <key alias="enterFolderName">crwdns171596:0crwdne171596:0</key>
+        <key alias="updateData">crwdns171598:0crwdne171598:0</key>
+        <key alias="noDocumentTypes" version="7.0"><![CDATA[crwdns171600:0crwdne171600:0]]></key>
+        <key alias="noMediaTypes" version="7.0"><![CDATA[crwdns171602:0crwdne171602:0]]></key>
+        <key alias="documentTypeWithoutTemplate">crwdns171604:0crwdne171604:0</key>
+        <key alias="newFolder">crwdns171606:0crwdne171606:0</key>
+        <key alias="newDataType">crwdns171608:0crwdne171608:0</key>
+        <key alias="newJavascriptFile">crwdns171610:0crwdne171610:0</key>
+        <key alias="newEmptyPartialView">crwdns171612:0crwdne171612:0</key>
+        <key alias="newPartialViewMacro">crwdns171614:0crwdne171614:0</key>
+        <key alias="newPartialViewFromSnippet">crwdns171616:0crwdne171616:0</key>
+        <key alias="newEmptyPartialViewMacro">crwdns171618:0crwdne171618:0</key>
+        <key alias="newPartialViewMacroFromSnippet">crwdns171620:0crwdne171620:0</key>
+        <key alias="newPartialViewMacroNoMacro">crwdns171622:0crwdne171622:0</key>
+    </area>
+    <area alias="dashboard">
+        <key alias="browser">crwdns171624:0crwdne171624:0</key>
+        <key alias="dontShowAgain">crwdns171626:0crwdne171626:0</key>
+        <key alias="nothinghappens">crwdns171628:0crwdne171628:0</key>
+        <key alias="openinnew">crwdns171630:0crwdne171630:0</key>
+        <key alias="restart">crwdns171632:0crwdne171632:0</key>
+        <key alias="visit">crwdns171634:0crwdne171634:0</key>
+        <key alias="welcome">crwdns171636:0crwdne171636:0</key>
+    </area>
+    <area alias="prompt">
+        <key alias="stay">crwdns171638:0crwdne171638:0</key>
+        <key alias="discardChanges">crwdns171640:0crwdne171640:0</key>
+        <key alias="unsavedChanges">crwdns171642:0crwdne171642:0</key>
+        <key alias="unsavedChangesWarning">crwdns171644:0crwdne171644:0</key>
+        <key alias="confirmUnpublish">crwdns171646:0crwdne171646:0</key>
+    </area>
+    <area alias="bulk">
+        <key alias="done">crwdns171648:0crwdne171648:0</key>
+
+        <key alias="deletedItem">crwdns171650:0%0crwdne171650:0</key>
+        <key alias="deletedItems">crwdns171652:0%0crwdne171652:0</key>
+        <key alias="deletedItemOfItem">crwdns171654:0%0crwdnd171654:0%1crwdne171654:0</key>
+        <key alias="deletedItemOfItems">crwdns171656:0%0crwdnd171656:0%1crwdne171656:0</key>
+
+        <key alias="publishedItem">crwdns171658:0%0crwdne171658:0</key>
+        <key alias="publishedItems">crwdns171660:0%0crwdne171660:0</key>
+        <key alias="publishedItemOfItem">crwdns171662:0%0crwdnd171662:0%1crwdne171662:0</key>
+        <key alias="publishedItemOfItems">crwdns171664:0%0crwdnd171664:0%1crwdne171664:0</key>
+
+        <key alias="unpublishedItem">crwdns171666:0%0crwdne171666:0</key>
+        <key alias="unpublishedItems">crwdns171668:0%0crwdne171668:0</key>
+        <key alias="unpublishedItemOfItem">crwdns171670:0%0crwdnd171670:0%1crwdne171670:0</key>
+        <key alias="unpublishedItemOfItems">crwdns171672:0%0crwdnd171672:0%1crwdne171672:0</key>
+
+        <key alias="movedItem">crwdns171674:0%0crwdne171674:0</key>
+        <key alias="movedItems">crwdns171676:0%0crwdne171676:0</key>
+        <key alias="movedItemOfItem">crwdns171678:0%0crwdnd171678:0%1crwdne171678:0</key>
+        <key alias="movedItemOfItems">crwdns171680:0%0crwdnd171680:0%1crwdne171680:0</key>
+
+        <key alias="copiedItem">crwdns171682:0%0crwdne171682:0</key>
+        <key alias="copiedItems">crwdns171684:0%0crwdne171684:0</key>
+        <key alias="copiedItemOfItem">crwdns171686:0%0crwdnd171686:0%1crwdne171686:0</key>
+        <key alias="copiedItemOfItems">crwdns171688:0%0crwdnd171688:0%1crwdne171688:0</key>
+    </area>
+    <area alias="defaultdialogs">
+        <key alias="nodeNameLinkPicker">crwdns171690:0crwdne171690:0</key>
+        <key alias="urlLinkPicker">crwdns171692:0crwdne171692:0</key>
+        <key alias="anchorLinkPicker">crwdns171694:0crwdne171694:0</key>
+        <key alias="anchorInsert">crwdns171696:0crwdne171696:0</key>
+        <key alias="assignDomain">crwdns171698:0crwdne171698:0</key>
+        <key alias="closeThisWindow">crwdns171700:0crwdne171700:0</key>
+        <key alias="confirmdelete">crwdns171702:0crwdne171702:0</key>
+        <key alias="confirmdisable">crwdns171704:0crwdne171704:0</key>
+        <key alias="confirmEmptyTrashcan">crwdns171706:0%0crwdne171706:0</key>
+        <key alias="confirmlogout">crwdns171708:0crwdne171708:0</key>
+        <key alias="confirmSure">crwdns171710:0crwdne171710:0</key>
+        <key alias="cut">crwdns171712:0crwdne171712:0</key>
+        <key alias="editdictionary">crwdns171714:0crwdne171714:0</key>
+        <key alias="editlanguage">crwdns171716:0crwdne171716:0</key>
+        <key alias="insertAnchor">crwdns171718:0crwdne171718:0</key>
+        <key alias="insertCharacter">crwdns171720:0crwdne171720:0</key>
+        <key alias="insertgraphicheadline">crwdns171722:0crwdne171722:0</key>
+        <key alias="insertimage">crwdns171724:0crwdne171724:0</key>
+        <key alias="insertlink">crwdns171726:0crwdne171726:0</key>
+        <key alias="insertMacro">crwdns171728:0crwdne171728:0</key>
+        <key alias="inserttable">crwdns171730:0crwdne171730:0</key>
+        <key alias="lastEdited">crwdns171732:0crwdne171732:0</key>
+        <key alias="link">crwdns171734:0crwdne171734:0</key>
+        <key alias="linkinternal">crwdns171736:0crwdne171736:0</key>
+        <key alias="linklocaltip">crwdns171738:0crwdne171738:0</key>
+        <key alias="linknewwindow">crwdns171740:0crwdne171740:0</key>
+        <key alias="macroContainerSettings">crwdns171742:0crwdne171742:0</key>
+        <key alias="macroDoesNotHaveProperties">crwdns171744:0crwdne171744:0</key>
+        <key alias="paste">crwdns171746:0crwdne171746:0</key>
+        <key alias="permissionsEdit">crwdns171748:0crwdne171748:0</key>
+        <key alias="permissionsSet">crwdns171750:0crwdne171750:0</key>
+        <key alias="permissionsSetForGroup">crwdns171752:0%0crwdnd171752:0%1crwdne171752:0</key>
+        <key alias="permissionsHelp">crwdns171754:0crwdne171754:0</key>
+        <key alias="recycleBinDeleting">crwdns171756:0crwdne171756:0</key>
+        <key alias="recycleBinIsEmpty">crwdns171758:0crwdne171758:0</key>
+        <key alias="recycleBinWarning">crwdns171760:0crwdne171760:0</key>
+        <key alias="regexSearchError"><![CDATA[crwdns171762:0crwdne171762:0]]></key>
+        <key alias="regexSearchHelp">crwdns171764:0crwdne171764:0</key>
+        <key alias="removeMacro">crwdns171766:0crwdne171766:0</key>
+        <key alias="requiredField">crwdns171768:0crwdne171768:0</key>
+        <key alias="sitereindexed">crwdns171770:0crwdne171770:0</key>
+        <key alias="siterepublished">crwdns171772:0crwdne171772:0</key>
+        <key alias="siterepublishHelp">crwdns171774:0crwdne171774:0</key>
+        <key alias="tableColumns">crwdns171776:0crwdne171776:0</key>
+        <key alias="tableRows">crwdns171778:0crwdne171778:0</key>
+        <key alias="templateContentAreaHelp"><![CDATA[crwdns171780:0crwdne171780:0]]></key>
+        <key alias="templateContentPlaceHolderHelp"><![CDATA[crwdns171782:0crwdne171782:0]]></key>
+        <key alias="thumbnailimageclickfororiginal">crwdns171784:0crwdne171784:0</key>
+        <key alias="treepicker">crwdns171786:0crwdne171786:0</key>
+        <key alias="viewCacheItem">crwdns171788:0crwdne171788:0</key>
+        <key alias="createFolder">crwdns171790:0crwdne171790:0</key>
+        <key alias="relateToOriginalLabel">crwdns171792:0crwdne171792:0</key>
+        <key alias="includeDescendants">crwdns171794:0crwdne171794:0</key>
+        <key alias="theFriendliestCommunity">crwdns171796:0crwdne171796:0</key>
+        <key alias="linkToPage">crwdns171798:0crwdne171798:0</key>
+        <key alias="openInNewWindow">crwdns171800:0crwdne171800:0</key>
+        <key alias="linkToMedia">crwdns171802:0crwdne171802:0</key>
+        <key alias="linkToFile">crwdns171804:0crwdne171804:0</key>
+        <key alias="selectContentStartNode">crwdns171806:0crwdne171806:0</key>
+        <key alias="selectMedia">crwdns171808:0crwdne171808:0</key>
+        <key alias="selectIcon">crwdns171810:0crwdne171810:0</key>
+        <key alias="selectItem">crwdns171812:0crwdne171812:0</key>
+        <key alias="selectLink">crwdns171814:0crwdne171814:0</key>
+        <key alias="selectMacro">crwdns171816:0crwdne171816:0</key>
+        <key alias="selectContent">crwdns171818:0crwdne171818:0</key>
+        <key alias="selectMediaStartNode">crwdns171820:0crwdne171820:0</key>
+        <key alias="selectMember">crwdns171822:0crwdne171822:0</key>
+        <key alias="selectMemberGroup">crwdns171824:0crwdne171824:0</key>
+        <key alias="selectNode">crwdns171826:0crwdne171826:0</key>
+        <key alias="selectSections">crwdns171828:0crwdne171828:0</key>
+        <key alias="selectUsers">crwdns171830:0crwdne171830:0</key>
+        <key alias="noIconsFound">crwdns171832:0crwdne171832:0</key>
+        <key alias="noMacroParams">crwdns171834:0crwdne171834:0</key>
+        <key alias="noMacros">crwdns171836:0crwdne171836:0</key>
+        <key alias="externalLoginProviders">crwdns171838:0crwdne171838:0</key>
+        <key alias="exceptionDetail">crwdns171840:0crwdne171840:0</key>
+        <key alias="stacktrace">crwdns171842:0crwdne171842:0</key>
+        <key alias="innerException">crwdns171844:0crwdne171844:0</key>
+        <key alias="linkYour">crwdns171846:0crwdne171846:0</key>
+        <key alias="unLinkYour">crwdns171848:0crwdne171848:0</key>
+        <key alias="account">crwdns171850:0crwdne171850:0</key>
+        <key alias="selectEditor">crwdns171852:0crwdne171852:0</key>
+        <key alias="selectSnippet">crwdns171854:0crwdne171854:0</key>
+    </area>
+    <area alias="dictionaryItem">
+        <key alias="description"><![CDATA[crwdns171856:0%0crwdne171856:0]]></key>
+        <key alias="displayName">crwdns171858:0crwdne171858:0</key>
+        <key alias="changeKey">crwdns171860:0crwdne171860:0</key>
+        <key alias="changeKeyError"><![CDATA[crwdns171862:0%0crwdne171862:0]]></key>
+        <key alias="overviewTitle">crwdns171864:0crwdne171864:0</key>
+    </area>
+    <area alias="placeholders">
+        <key alias="username">crwdns171866:0crwdne171866:0</key>
+        <key alias="password">crwdns171868:0crwdne171868:0</key>
+        <key alias="confirmPassword">crwdns171870:0crwdne171870:0</key>
+        <key alias="nameentity">crwdns171872:0%0crwdne171872:0</key>
+        <key alias="entername">crwdns171874:0crwdne171874:0</key>
+        <key alias="enteremail">crwdns171876:0crwdne171876:0</key>
+        <key alias="enterusername">crwdns171878:0crwdne171878:0</key>
+        <key alias="label">crwdns171880:0crwdne171880:0</key>
+        <key alias="enterDescription">crwdns171882:0crwdne171882:0</key>
+        <key alias="search">crwdns171884:0crwdne171884:0</key>
+        <key alias="filter">crwdns171886:0crwdne171886:0</key>
+        <key alias="enterTags">crwdns171888:0crwdne171888:0</key>
+        <key alias="email">crwdns171890:0crwdne171890:0</key>
+        <key alias="enterMessage">crwdns171892:0crwdne171892:0</key>
+        <key alias="usernameHint">crwdns171894:0crwdne171894:0</key>
+        <key alias="anchor">crwdns171896:0crwdne171896:0</key>
+        <key alias="enterAlias">crwdns171898:0crwdne171898:0</key>
+        <key alias="generatingAlias">crwdns171900:0crwdne171900:0</key>
+    </area>
+    <area alias="editcontenttype">
+        <key alias="allowAtRoot" version="7.2">crwdns171902:0crwdne171902:0</key>
+        <key alias="allowAtRootDesc" version="7.2">crwdns171904:0crwdne171904:0</key>
+        <key alias="allowedchildnodetypes">crwdns171906:0crwdne171906:0</key>
+        <key alias="contenttypecompositions">crwdns171908:0crwdne171908:0</key>
+        <key alias="create">crwdns171910:0crwdne171910:0</key>
+        <key alias="deletetab">crwdns171912:0crwdne171912:0</key>
+        <key alias="description">crwdns171914:0crwdne171914:0</key>
+        <key alias="newtab">crwdns171916:0crwdne171916:0</key>
+        <key alias="tab">crwdns171918:0crwdne171918:0</key>
+        <key alias="thumbnail">crwdns171920:0crwdne171920:0</key>
+        <key alias="hasListView">crwdns171922:0crwdne171922:0</key>
+        <key alias="hasListViewDesc" version="7.2">crwdns171924:0crwdne171924:0</key>
+        <key alias="currentListView" version="7.2">crwdns171926:0crwdne171926:0</key>
+        <key alias="currentListViewDesc" version="7.2">crwdns171928:0crwdne171928:0</key>
+        <key alias="createListView" version="7.2">crwdns171930:0crwdne171930:0</key>
+        <key alias="removeListView" version="7.2">crwdns171932:0crwdne171932:0</key>
+        <key alias="aliasAlreadyExists">crwdns171934:0crwdne171934:0</key>
+    </area>
+    <area alias="renamecontainer">
+        <key alias="renamed">crwdns171936:0crwdne171936:0</key>
+        <key alias="enterNewFolderName">crwdns171938:0crwdne171938:0</key>
+        <key alias="folderWasRenamed">crwdns171940:0%0crwdnd171940:0%1crwdne171940:0</key>
+    </area>
+    <area alias="editdatatype">
+        <key alias="addPrevalue">crwdns171942:0crwdne171942:0</key>
+        <key alias="dataBaseDatatype">crwdns171944:0crwdne171944:0</key>
+        <key alias="guid">crwdns171946:0crwdne171946:0</key>
+        <key alias="renderControl">crwdns171948:0crwdne171948:0</key>
+        <key alias="rteButtons">crwdns171950:0crwdne171950:0</key>
+        <key alias="rteEnableAdvancedSettings">crwdns171952:0crwdne171952:0</key>
+        <key alias="rteEnableContextMenu">crwdns171954:0crwdne171954:0</key>
+        <key alias="rteMaximumDefaultImgSize">crwdns171956:0crwdne171956:0</key>
+        <key alias="rteRelatedStylesheets">crwdns171958:0crwdne171958:0</key>
+        <key alias="rteShowLabel">crwdns171960:0crwdne171960:0</key>
+        <key alias="rteWidthAndHeight">crwdns171962:0crwdne171962:0</key>
+        <key alias="allPropTypes">crwdns171964:0crwdne171964:0</key>
+        <key alias="willBeDeleted">crwdns171966:0crwdne171966:0</key>
+        <key alias="yesDelete">crwdns171968:0crwdne171968:0</key>
+        <key alias="andAllRelated">crwdns171970:0crwdne171970:0</key>
+        <key alias="selectFolder">crwdns171972:0crwdne171972:0</key>
+        <key alias="inTheTree">crwdns171974:0crwdne171974:0</key>
+        <key alias="wasMoved">crwdns171976:0crwdne171976:0</key>
+    </area>
+    <area alias="errorHandling">
+        <key alias="errorButDataWasSaved">crwdns171978:0crwdne171978:0</key>
+        <key alias="errorChangingProviderPassword">crwdns171980:0Passwordcrwdne171980:0</key>
+        <key alias="errorExistsWithoutTab">crwdns171982:0%0crwdne171982:0</key>
+        <key alias="errorHeader">crwdns171984:0crwdne171984:0</key>
+        <key alias="errorHeaderWithoutTab">crwdns171986:0crwdne171986:0</key>
+        <key alias="errorInPasswordFormat">crwdns171988:0%0crwdnd171988:0%1crwdne171988:0</key>
+        <key alias="errorIntegerWithoutTab">crwdns171990:0%0crwdne171990:0</key>
+        <key alias="errorMandatory">crwdns171992:0%0crwdnd171992:0%1crwdne171992:0</key>
+        <key alias="errorMandatoryWithoutTab">crwdns171994:0%0crwdne171994:0</key>
+        <key alias="errorRegExp">crwdns171996:0%0crwdnd171996:0%1crwdne171996:0</key>
+        <key alias="errorRegExpWithoutTab">crwdns171998:0%0crwdne171998:0</key>
+    </area>
+    <area alias="errors">
+        <key alias="receivedErrorFromServer">crwdns172000:0crwdne172000:0</key>
+        <key alias="dissallowedMediaType">crwdns172002:0crwdne172002:0</key>
+        <key alias="codemirroriewarning">crwdns172004:0crwdne172004:0</key>
+        <key alias="contentTypeAliasAndNameNotNull">crwdns172006:0crwdne172006:0</key>
+        <key alias="filePermissionsError">crwdns172008:0crwdne172008:0</key>
+        <key alias="macroErrorLoadingPartialView">crwdns172010:0%0crwdne172010:0</key>
+        <key alias="macroErrorLoadingUsercontrol">crwdns172012:0%0crwdne172012:0</key>
+        <key alias="macroErrorLoadingCustomControl">crwdns172014:0%0crwdnd172014:0%1crwdne172014:0</key>
+        <key alias="macroErrorLoadingMacroEngineScript">crwdns172016:0%0crwdne172016:0</key>
+        <key alias="macroErrorParsingXSLTFile">crwdns172018:0%0crwdne172018:0</key>
+        <key alias="macroErrorReadingXSLTFile">crwdns172020:0%0crwdne172020:0</key>
+        <key alias="missingTitle">crwdns172022:0crwdne172022:0</key>
+        <key alias="missingType">crwdns172024:0crwdne172024:0</key>
+        <key alias="pictureResizeBiggerThanOrg">crwdns172026:0crwdne172026:0</key>
+        <key alias="pythonErrorHeader">crwdns172028:0crwdne172028:0</key>
+        <key alias="pythonErrorText">crwdns172030:0crwdne172030:0</key>
+        <key alias="startNodeDoesNotExists">crwdns172032:0crwdne172032:0</key>
+        <key alias="stylesMustMarkBeforeSelect">crwdns172034:0crwdne172034:0</key>
+        <key alias="stylesNoStylesOnPage">crwdns172036:0crwdne172036:0</key>
+        <key alias="tableColMergeLeft">crwdns172038:0crwdne172038:0</key>
+        <key alias="tableSplitNotSplittable">crwdns172040:0crwdne172040:0</key>
+        <key alias="xsltErrorHeader">crwdns172042:0crwdne172042:0</key>
+        <key alias="xsltErrorText">crwdns172044:0crwdne172044:0</key>
+        <key alias="missingPropertyEditorErrorMessage">crwdns172046:0crwdne172046:0</key>
+    </area>
+    <area alias="general">
+        <key alias="options">crwdns172048:0crwdne172048:0</key>
+        <key alias="about">crwdns172050:0crwdne172050:0</key>
+        <key alias="action">crwdns172052:0crwdne172052:0</key>
+        <key alias="actions">crwdns172054:0crwdne172054:0</key>
+        <key alias="add">crwdns172056:0crwdne172056:0</key>
+        <key alias="alias">crwdns172058:0crwdne172058:0</key>
+        <key alias="all">crwdns172060:0crwdne172060:0</key>
+        <key alias="areyousure">crwdns172062:0crwdne172062:0</key>
+        <key alias="back">crwdns172064:0crwdne172064:0</key>
+        <key alias="border">crwdns172066:0crwdne172066:0</key>
+        <key alias="by">crwdns172068:0crwdne172068:0</key>
+        <key alias="cancel">crwdns172070:0crwdne172070:0</key>
+        <key alias="cellMargin">crwdns172072:0crwdne172072:0</key>
+        <key alias="choose">crwdns172074:0crwdne172074:0</key>
+        <key alias="close">crwdns172076:0crwdne172076:0</key>
+        <key alias="closewindow">crwdns172078:0crwdne172078:0</key>
+        <key alias="comment">crwdns172080:0crwdne172080:0</key>
+        <key alias="confirm">crwdns172082:0crwdne172082:0</key>
+        <key alias="constrain">crwdns172084:0crwdne172084:0</key>
+        <key alias="constrainProportions">crwdns172086:0crwdne172086:0</key>
+        <key alias="continue">crwdns172088:0crwdne172088:0</key>
+        <key alias="copy">crwdns172090:0crwdne172090:0</key>
+        <key alias="create">crwdns172092:0crwdne172092:0</key>
+        <key alias="database">crwdns172094:0crwdne172094:0</key>
+        <key alias="date">crwdns172096:0crwdne172096:0</key>
+        <key alias="default">crwdns172098:0crwdne172098:0</key>
+        <key alias="delete">crwdns172100:0crwdne172100:0</key>
+        <key alias="deleted">crwdns172102:0crwdne172102:0</key>
+        <key alias="deleting">crwdns172104:0crwdne172104:0</key>
+        <key alias="design">crwdns172106:0crwdne172106:0</key>
+        <key alias="dictionary">crwdns172108:0crwdne172108:0</key>
+        <key alias="dimensions">crwdns172110:0crwdne172110:0</key>
+        <key alias="down">crwdns172112:0crwdne172112:0</key>
+        <key alias="download">crwdns172114:0crwdne172114:0</key>
+        <key alias="edit">crwdns172116:0crwdne172116:0</key>
+        <key alias="edited">crwdns172118:0crwdne172118:0</key>
+        <key alias="elements">crwdns172120:0crwdne172120:0</key>
+        <key alias="email">crwdns172122:0crwdne172122:0</key>
+        <key alias="error">crwdns172124:0crwdne172124:0</key>
+        <key alias="findDocument">crwdns172126:0crwdne172126:0</key>
+        <key alias="first">crwdns172128:0crwdne172128:0</key>
+        <key alias="general">crwdns172130:0crwdne172130:0</key>
+        <key alias="groups">crwdns172132:0crwdne172132:0</key>
+        <key alias="height">crwdns172134:0crwdne172134:0</key>
+        <key alias="help">crwdns172136:0crwdne172136:0</key>
+        <key alias="hide">crwdns172138:0crwdne172138:0</key>
+        <key alias="history">crwdns172140:0crwdne172140:0</key>
+        <key alias="icon">crwdns172142:0crwdne172142:0</key>
+        <key alias="id">crwdns172144:0crwdne172144:0</key>
+        <key alias="import">crwdns172146:0crwdne172146:0</key>
+        <key alias="info">crwdns172148:0crwdne172148:0</key>
+        <key alias="innerMargin">crwdns172150:0crwdne172150:0</key>
+        <key alias="insert">crwdns172152:0crwdne172152:0</key>
+        <key alias="install">crwdns172154:0crwdne172154:0</key>
+        <key alias="invalid">crwdns172156:0crwdne172156:0</key>
+        <key alias="justify">crwdns172158:0crwdne172158:0</key>
+        <key alias="label">crwdns172160:0crwdne172160:0</key>
+        <key alias="language">crwdns172162:0crwdne172162:0</key>
+        <key alias="last">crwdns172164:0crwdne172164:0</key>
+        <key alias="layout">crwdns172166:0crwdne172166:0</key>
+        <key alias="links">crwdns172168:0crwdne172168:0</key>
+        <key alias="loading">crwdns172170:0crwdne172170:0</key>
+        <key alias="locked">crwdns172172:0crwdne172172:0</key>
+        <key alias="login">crwdns172174:0crwdne172174:0</key>
+        <key alias="logoff">crwdns172176:0crwdne172176:0</key>
+        <key alias="logout">crwdns172178:0crwdne172178:0</key>
+        <key alias="macro">crwdns172180:0crwdne172180:0</key>
+        <key alias="mandatory">crwdns172182:0crwdne172182:0</key>
+        <key alias="message">crwdns172184:0crwdne172184:0</key>
+        <key alias="move">crwdns172186:0crwdne172186:0</key>
+        <key alias="more">crwdns172188:0crwdne172188:0</key>
+        <key alias="name">crwdns172190:0crwdne172190:0</key>
+        <key alias="new">crwdns172192:0crwdne172192:0</key>
+        <key alias="next">crwdns172194:0crwdne172194:0</key>
+        <key alias="no">crwdns172196:0crwdne172196:0</key>
+        <key alias="of">crwdns172198:0crwdne172198:0</key>
+        <key alias="off">crwdns172200:0crwdne172200:0</key>
+        <key alias="ok">crwdns172202:0crwdne172202:0</key>
+        <key alias="open">crwdns172204:0crwdne172204:0</key>
+        <key alias="on">crwdns172206:0crwdne172206:0</key>
+        <key alias="or">crwdns172208:0crwdne172208:0</key>
+        <key alias="orderBy">crwdns172210:0crwdne172210:0</key>
+        <key alias="password">crwdns172212:0Passwordcrwdne172212:0</key>
+        <key alias="path">crwdns172214:0crwdne172214:0</key>
+        <key alias="placeHolderID">crwdns172216:0crwdne172216:0</key>
+        <key alias="pleasewait">crwdns172218:0crwdne172218:0</key>
+        <key alias="previous">crwdns172220:0crwdne172220:0</key>
+        <key alias="properties">crwdns172222:0crwdne172222:0</key>
+        <key alias="reciept">crwdns172224:0crwdne172224:0</key>
+        <key alias="recycleBin">crwdns172226:0crwdne172226:0</key>
+        <key alias="recycleBinEmpty">crwdns172228:0crwdne172228:0</key>
+        <key alias="remaining">crwdns172230:0crwdne172230:0</key>
+        <key alias="remove">crwdns172232:0crwdne172232:0</key>
+        <key alias="rename">crwdns172234:0crwdne172234:0</key>
+        <key alias="renew">crwdns172236:0crwdne172236:0</key>
+        <key alias="required" version="7.0">crwdns172238:0crwdne172238:0</key>
+        <key alias="retrieve">crwdns172240:0crwdne172240:0</key>
+        <key alias="retry">crwdns172242:0crwdne172242:0</key>
+        <key alias="rights">crwdns172244:0crwdne172244:0</key>
+        <key alias="scheduledPublishing">crwdns172246:0crwdne172246:0</key>
+        <key alias="search">crwdns172248:0crwdne172248:0</key>
+        <key alias="searchNoResult">crwdns172250:0crwdne172250:0</key>
+        <key alias="noItemsInList">crwdns172252:0crwdne172252:0</key>
+        <key alias="server">crwdns172254:0crwdne172254:0</key>
+        <key alias="show">crwdns172256:0crwdne172256:0</key>
+        <key alias="showPageOnSend">crwdns172258:0crwdne172258:0</key>
+        <key alias="size">crwdns172260:0crwdne172260:0</key>
+        <key alias="sort">crwdns172262:0crwdne172262:0</key>
+        <key alias="status">crwdns172264:0crwdne172264:0</key>
+        <key alias="submit">crwdns172266:0crwdne172266:0</key>
+        <key alias="type">crwdns172268:0crwdne172268:0</key>
+        <key alias="typeToSearch">crwdns172270:0crwdne172270:0</key>
+        <key alias="under">crwdns172272:0crwdne172272:0</key>
+        <key alias="up">crwdns172274:0crwdne172274:0</key>
+        <key alias="update">crwdns172276:0crwdne172276:0</key>
+        <key alias="upgrade">crwdns172278:0crwdne172278:0</key>
+        <key alias="upload">crwdns172280:0crwdne172280:0</key>
+        <key alias="url">crwdns172282:0crwdne172282:0</key>
+        <key alias="user">crwdns172284:0crwdne172284:0</key>
+        <key alias="username">crwdns172286:0crwdne172286:0</key>
+        <key alias="value">crwdns172288:0crwdne172288:0</key>
+        <key alias="view">crwdns172290:0crwdne172290:0</key>
+        <key alias="welcome">crwdns172292:0crwdne172292:0</key>
+        <key alias="width">crwdns172294:0crwdne172294:0</key>
+        <key alias="yes">crwdns172296:0crwdne172296:0</key>
+        <key alias="folder">crwdns172298:0crwdne172298:0</key>
+        <key alias="searchResults">crwdns172300:0crwdne172300:0</key>
+        <key alias="reorder">crwdns172302:0crwdne172302:0</key>
+        <key alias="reorderDone">crwdns172304:0crwdne172304:0</key>
+        <key alias="preview">crwdns172306:0crwdne172306:0</key>
+        <key alias="changePassword">crwdns172308:0crwdne172308:0</key>
+        <key alias="to">crwdns172310:0crwdne172310:0</key>
+        <key alias="listView">crwdns172312:0crwdne172312:0</key>
+        <key alias="saving">crwdns172314:0crwdne172314:0</key>
+        <key alias="current">crwdns172316:0crwdne172316:0</key>
+        <key alias="embed">crwdns172318:0crwdne172318:0</key>
+        <key alias="retrieve">crwdns172320:0crwdne172320:0</key>
+        <key alias="selected">crwdns172322:0crwdne172322:0</key>
+		<key alias="includeFromsubFolders">crwdns172324:0crwdne172324:0</key>
+    </area>
+
+    <area alias="colors">
+        <key alias="black">crwdns172326:0crwdne172326:0</key>
+        <key alias="green">crwdns172328:0crwdne172328:0</key>
+        <key alias="yellow">crwdns172330:0crwdne172330:0</key>
+        <key alias="orange">crwdns172332:0crwdne172332:0</key>
+        <key alias="blue">crwdns172334:0crwdne172334:0</key>
+        <key alias="bluegrey">crwdns172336:0crwdne172336:0</key>
+        <key alias="grey">crwdns172338:0crwdne172338:0</key>
+        <key alias="brown">crwdns172340:0crwdne172340:0</key>
+        <key alias="lightblue">crwdns172342:0crwdne172342:0</key>
+        <key alias="cyan">crwdns172344:0crwdne172344:0</key>
+        <key alias="lightgreen">crwdns172346:0crwdne172346:0</key>
+        <key alias="lime">crwdns172348:0crwdne172348:0</key>
+        <key alias="amber">crwdns172350:0crwdne172350:0</key>
+        <key alias="deeporange">crwdns172352:0crwdne172352:0</key>
+        <key alias="red">crwdns172354:0crwdne172354:0</key>
+        <key alias="pink">crwdns172356:0crwdne172356:0</key>
+        <key alias="purple">crwdns172358:0crwdne172358:0</key>
+        <key alias="deeppurple">crwdns172360:0crwdne172360:0</key>
+        <key alias="indigo">crwdns172362:0crwdne172362:0</key>
+    </area>
+
+    <area alias="shortcuts">
+        <key alias="addTab">crwdns172364:0crwdne172364:0</key>
+        <key alias="addProperty">crwdns172366:0crwdne172366:0</key>
+        <key alias="addEditor">crwdns172368:0crwdne172368:0</key>
+        <key alias="addTemplate">crwdns172370:0crwdne172370:0</key>
+        <key alias="addChildNode">crwdns172372:0crwdne172372:0</key>
+        <key alias="addChild">crwdns172374:0crwdne172374:0</key>
+
+        <key alias="editDataType">crwdns172376:0crwdne172376:0</key>
+
+        <key alias="navigateSections">crwdns172378:0crwdne172378:0</key>
+
+        <key alias="shortcut">crwdns172380:0crwdne172380:0</key>
+        <key alias="showShortcuts">crwdns172382:0crwdne172382:0</key>
+
+        <key alias="toggleListView">crwdns172384:0crwdne172384:0</key>
+        <key alias="toggleAllowAsRoot">crwdns172386:0crwdne172386:0</key>
+
+        <key alias="commentLine">crwdns172388:0crwdne172388:0</key>
+        <key alias="removeLine">crwdns172390:0crwdne172390:0</key>
+        <key alias="copyLineUp">crwdns172392:0crwdne172392:0</key>
+        <key alias="copyLineDown">crwdns172394:0crwdne172394:0</key>
+        <key alias="moveLineUp">crwdns172396:0crwdne172396:0</key>
+        <key alias="moveLineDown">crwdns172398:0crwdne172398:0</key>
+
+        <key alias="generalHeader">crwdns172400:0crwdne172400:0</key>
+        <key alias="editorHeader">crwdns172402:0crwdne172402:0</key>
+    </area>
+    <area alias="graphicheadline">
+        <key alias="backgroundcolor">crwdns172404:0crwdne172404:0</key>
+        <key alias="bold">crwdns172406:0crwdne172406:0</key>
+        <key alias="color">crwdns172408:0crwdne172408:0</key>
+        <key alias="font">crwdns172410:0crwdne172410:0</key>
+        <key alias="text">crwdns172412:0crwdne172412:0</key>
+    </area>
+    <area alias="headers">
+        <key alias="page">crwdns172414:0crwdne172414:0</key>
+    </area>
+    <area alias="installer">
+        <key alias="databaseErrorCannotConnect">crwdns172416:0crwdne172416:0</key>
+        <key alias="databaseErrorWebConfig">crwdns172418:0crwdne172418:0</key>
+        <key alias="databaseFound">crwdns172420:0crwdne172420:0</key>
+        <key alias="databaseHeader">crwdns172422:0crwdne172422:0</key>
+        <key alias="databaseInstall"><![CDATA[crwdns172424:0%0crwdne172424:0]]></key>
+        <key alias="databaseInstallDone"><![CDATA[crwdns172426:0%0crwdne172426:0]]></key>
+        <key alias="databaseNotFound"><![CDATA[crwdns172428:0crwdne172428:0]]></key>
+        <key alias="databaseText"><![CDATA[crwdns172430:0crwdne172430:0]]></key>
+        <key alias="databaseUpgrade"><![CDATA[crwdns172432:0%0crwdne172432:0]]></key>
+        <key alias="databaseUpgradeDone"><![CDATA[crwdns172434:0%0crwdne172434:0]]></key>
+        <key alias="databaseUpToDate"><![CDATA[crwdns172436:0crwdne172436:0]]></key>
+        <key alias="defaultUserChangePass"><![CDATA[crwdns172438:0crwdne172438:0]]></key>
+        <key alias="defaultUserDisabled"><![CDATA[crwdns172440:0crwdne172440:0]]></key>
+        <key alias="defaultUserPassChanged"><![CDATA[crwdns172442:0crwdne172442:0]]></key>
+        <key alias="defaultUserPasswordChanged">crwdns172444:0crwdne172444:0</key>
+        <key alias="greatStart">crwdns172446:0crwdne172446:0</key>
+        <key alias="licenseText">crwdns172448:0crwdne172448:0</key>
+        <key alias="None">crwdns172450:0crwdne172450:0</key>
+        <key alias="permissionsAffectedFolders">crwdns172452:0crwdne172452:0</key>
+        <key alias="permissionsAffectedFoldersMoreInfo">crwdns172454:0crwdne172454:0</key>
+        <key alias="permissionsAffectedFoldersText">crwdns172456:0crwdne172456:0</key>
+        <key alias="permissionsAlmostPerfect"><![CDATA[crwdns172458:0crwdne172458:0]]></key>
+        <key alias="permissionsHowtoResolve">crwdns172460:0crwdne172460:0</key>
+        <key alias="permissionsHowtoResolveLink">crwdns172462:0crwdne172462:0</key>
+        <key alias="permissionsHowtoResolveText"><![CDATA[crwdns172464:0crwdne172464:0]]></key>
+        <key alias="permissionsMaybeAnIssue"><![CDATA[crwdns172466:0crwdne172466:0]]></key>
+        <key alias="permissionsNotReady"><![CDATA[crwdns172468:0crwdne172468:0]]></key>
+        <key alias="permissionsPerfect"><![CDATA[crwdns172470:0crwdne172470:0]]></key>
+        <key alias="permissionsResolveFolderIssues">crwdns172472:0crwdne172472:0</key>
+        <key alias="permissionsResolveFolderIssuesLink">crwdns172474:0crwdne172474:0</key>
+        <key alias="permissionsSettingUpPermissions">crwdns172476:0crwdne172476:0</key>
+        <key alias="permissionsText"><![CDATA[crwdns172478:0crwdne172478:0]]></key>
+        <key alias="runwayFromScratch">crwdns172480:0crwdne172480:0</key>
+        <key alias="runwayFromScratchText"><![CDATA[crwdns172482:0crwdne172482:0]]></key>
+        <key alias="runwayHeader">crwdns172484:0crwdne172484:0</key>
+        <key alias="runwayInstalled">crwdns172486:0crwdne172486:0</key>
+        <key alias="runwayInstalledText"><![CDATA[crwdns172488:0crwdne172488:0]]></key>
+        <key alias="runwayOnlyProUsers">crwdns172490:0crwdne172490:0</key>
+        <key alias="runwaySimpleSite">crwdns172492:0crwdne172492:0</key>
+        <key alias="runwaySimpleSiteText"><![CDATA[crwdns172494:0crwdne172494:0]]></key>
+        <key alias="runwayWhatIsRunway">crwdns172496:0crwdne172496:0</key>
+        <key alias="step1">crwdns172498:0crwdne172498:0</key>
+        <key alias="step2">crwdns172500:0crwdne172500:0</key>
+        <key alias="step3">crwdns172502:0crwdne172502:0</key>
+        <key alias="step4">crwdns172504:0crwdne172504:0</key>
+        <key alias="step5">crwdns172506:0crwdne172506:0</key>
+        <key alias="thankYou">crwdns172508:0crwdne172508:0</key>
+        <key alias="theEndBrowseSite"><![CDATA[crwdns172510:0crwdne172510:0]]></key>
+        <key alias="theEndFurtherHelp"><![CDATA[crwdns172512:0crwdne172512:0]]></key>
+        <key alias="theEndHeader">crwdns172514:0%0crwdne172514:0</key>
+        <key alias="theEndInstallFailed"><![CDATA[crwdns172516:0%0crwdne172516:0]]></key>
+        <key alias="theEndInstallSuccess"><![CDATA[crwdns172518:0crwdne172518:0]]></key>
+        <key alias="theEndOpenUmbraco"><![CDATA[crwdns172520:0crwdne172520:0]]></key>
+        <key alias="Unavailable">crwdns172522:0crwdne172522:0</key>
+        <key alias="Version3">crwdns172524:0crwdne172524:0</key>
+        <key alias="Version4">crwdns172526:0crwdne172526:0</key>
+        <key alias="watch">crwdns172528:0crwdne172528:0</key>
+        <key alias="welcomeIntro"><![CDATA[crwdns172530:0%0crwdne172530:0]]></key>
+    </area>
+    <area alias="language">
+        <key alias="cultureCode">crwdns172532:0crwdne172532:0</key>
+        <key alias="displayName">crwdns172534:0crwdne172534:0</key>
+    </area>
+    <area alias="lockout">
+        <key alias="lockoutWillOccur">crwdns172536:0crwdne172536:0</key>
+        <key alias="renewSession">crwdns172538:0crwdne172538:0</key>
+    </area>
+    <area alias="login">
+        <key alias="greeting0">crwdns172540:0crwdne172540:0</key>
+        <key alias="greeting1">crwdns172542:0crwdne172542:0</key>
+        <key alias="greeting2">crwdns172544:0crwdne172544:0</key>
+        <key alias="greeting3">crwdns172546:0crwdne172546:0</key>
+        <key alias="greeting4">crwdns172548:0crwdne172548:0</key>
+        <key alias="greeting5">crwdns172550:0crwdne172550:0</key>
+        <key alias="greeting6">crwdns172552:0crwdne172552:0</key>
+        <key alias="instruction">crwdns172554:0crwdne172554:0</key>
+        <key alias="signInWith">crwdns172556:0crwdne172556:0</key>
+        <key alias="timeout">crwdns172558:0crwdne172558:0</key>
+        <key alias="bottomText"><![CDATA[crwdns172560:0%0crwdne172560:0]]></key>
+        <key alias="forgottenPassword">crwdns172562:0crwdne172562:0</key>
+        <key alias="forgottenPasswordInstruction">crwdns172564:0crwdne172564:0</key>
+        <key alias="requestPasswordResetConfirmation">crwdns172566:0crwdne172566:0</key>
+        <key alias="showPassword">crwdns172568:0crwdne172568:0</key>
+        <key alias="hidePassword">crwdns172570:0crwdne172570:0</key>
+        <key alias="returnToLogin">crwdns172572:0crwdne172572:0</key>
+        <key alias="setPasswordInstruction">crwdns172574:0crwdne172574:0</key>
+        <key alias="setPasswordConfirmation">crwdns172576:0Passwordcrwdne172576:0</key>
+        <key alias="resetCodeExpired">crwdns172578:0crwdne172578:0</key>
+        <key alias="resetPasswordEmailCopySubject">crwdns172580:0Passwordcrwdne172580:0</key>
+        <key alias="resetPasswordEmailCopyFormat"><![CDATA[crwdns172582:0[endif]crwdnd172582:0[endif]crwdnd172582:0Passwordcrwdnd172582:0%0crwdnd172582:0%1crwdnd172582:0%1crwdnd172582:0%1crwdne172582:0]]></key>
+    </area>
+    <area alias="main">
+        <key alias="dashboard">crwdns172584:0crwdne172584:0</key>
+        <key alias="sections">crwdns172586:0crwdne172586:0</key>
+        <key alias="tree">crwdns172588:0crwdne172588:0</key>
+    </area>
+    <area alias="moveOrCopy">
+        <key alias="choose">crwdns172590:0crwdne172590:0</key>
+        <key alias="copyDone">crwdns172592:0%0crwdnd172592:0%1crwdne172592:0</key>
+        <key alias="copyTo">crwdns172594:0%0crwdne172594:0</key>
+        <key alias="moveDone">crwdns172596:0%0crwdnd172596:0%1crwdne172596:0</key>
+        <key alias="moveTo">crwdns172598:0%0crwdne172598:0</key>
+        <key alias="nodeSelected">crwdns172600:0crwdne172600:0</key>
+        <key alias="noNodeSelected">crwdns172602:0crwdne172602:0</key>
+        <key alias="notAllowedByContentType">crwdns172604:0crwdne172604:0</key>
+        <key alias="notAllowedByPath">crwdns172606:0crwdne172606:0</key>
+        <key alias="notAllowedAtRoot">crwdns172608:0crwdne172608:0</key>
+        <key alias="notValid">crwdns172610:0crwdne172610:0</key>
+        <key alias="relateToOriginal">crwdns172612:0crwdne172612:0</key>
+    </area>
+    <area alias="notifications">
+        <key alias="editNotifications"><![CDATA[crwdns172614:0%0crwdne172614:0]]></key>
+        <key alias="notificationsSavedFor">crwdns172616:0crwdne172616:0</key>
+        <key alias="mailBody"><![CDATA[crwdns172618:0%0crwdnd172618:0%1crwdnd172618:0%2crwdnd172618:0%3crwdnd172618:0%4crwdnd172618:0%5crwdne172618:0]]></key>
+        <key alias="mailBodyHtml"><![CDATA[crwdns172620:0[endif]crwdnd172620:0[endif]crwdnd172620:0%0crwdnd172620:0%1crwdnd172620:0%4crwdnd172620:0%5crwdnd172620:0%2crwdnd172620:0%3crwdnd172620:0%4crwdnd172620:0%5crwdnd172620:0%6crwdne172620:0]]></key>
+        <key alias="mailSubject">crwdns172622:0[%0%]crwdnd172622:0%1crwdnd172622:0%2crwdne172622:0</key>
+        <key alias="notifications">crwdns172624:0crwdne172624:0</key>
+    </area>
+    <area alias="packager">
+        <key alias="chooseLocalPackageText"><![CDATA[crwdns172626:0crwdne172626:0]]></key>
+        <key alias="dropHere">crwdns172628:0crwdne172628:0</key>
+        <key alias="orClickHereToUpload">crwdns172630:0crwdne172630:0</key>
+        <key alias="uploadPackage">crwdns172632:0crwdne172632:0</key>
+        <key alias="localPackageDescription">crwdns172634:0crwdne172634:0</key>
+        <key alias="uploadAnother">crwdns172636:0crwdne172636:0</key>
+        <key alias="cancelAndUploadAnother">crwdns172638:0crwdne172638:0</key>
+        <key alias="packageLicense">crwdns172640:0crwdne172640:0</key>
+        <key alias="accept">crwdns172642:0crwdne172642:0</key>
+        <key alias="termsOfUse">crwdns172644:0crwdne172644:0</key>
+        <key alias="packageInstall">crwdns172646:0crwdne172646:0</key>
+        <key alias="installFinish">crwdns172648:0crwdne172648:0</key>
+        <key alias="installedPackages">crwdns172650:0crwdne172650:0</key>
+        <key alias="noPackages">crwdns172652:0crwdne172652:0</key>
+        <key alias="noPackagesDescription"><![CDATA[crwdns172654:0crwdne172654:0]]></key>
+        <key alias="packageSearch">crwdns172656:0crwdne172656:0</key>
+        <key alias="packageSearchResults">crwdns172658:0crwdne172658:0</key>
+        <key alias="packageNoResults">crwdns172660:0crwdne172660:0</key>
+        <key alias="packageNoResultsDescription">crwdns172662:0crwdne172662:0</key>
+        <key alias="packagesPopular">crwdns172664:0crwdne172664:0</key>
+        <key alias="packagesNew">crwdns172666:0crwdne172666:0</key>
+        <key alias="packageHas">crwdns172668:0crwdne172668:0</key>
+        <key alias="packageKarmaPoints">crwdns172670:0crwdne172670:0</key>
+        <key alias="packageInfo">crwdns172672:0crwdne172672:0</key>
+        <key alias="packageOwner">crwdns172674:0crwdne172674:0</key>
+        <key alias="packageContrib">crwdns172676:0crwdne172676:0</key>
+        <key alias="packageCreated">crwdns172678:0crwdne172678:0</key>
+        <key alias="packageCurrentVersion">crwdns172680:0crwdne172680:0</key>
+        <key alias="packageNetVersion">crwdns172682:0crwdne172682:0</key>
+        <key alias="packageDownloads">crwdns172684:0crwdne172684:0</key>
+        <key alias="packageLikes">crwdns172686:0crwdne172686:0</key>
+        <key alias="packageCompatibility">crwdns172688:0crwdne172688:0</key>
+        <key alias="packageCompatibilityDescription">crwdns172690:0crwdne172690:0</key>
+        <key alias="packageExternalSources">crwdns172692:0crwdne172692:0</key>
+        <key alias="packageAuthor">crwdns172694:0crwdne172694:0</key>
+        <key alias="packageDemonstration">crwdns172696:0crwdne172696:0</key>
+        <key alias="packageDocumentation">crwdns172698:0crwdne172698:0</key>
+        <key alias="packageMetaData">crwdns172700:0crwdne172700:0</key>
+        <key alias="packageName">crwdns172702:0crwdne172702:0</key>
+        <key alias="packageNoItemsHeader">crwdns172704:0crwdne172704:0</key>
+        <key alias="packageNoItemsText"><![CDATA[crwdns172706:0crwdne172706:0]]></key>
+        <key alias="packageNoUpgrades">crwdns172708:0crwdne172708:0</key>
+        <key alias="packageOptions">crwdns172710:0crwdne172710:0</key>
+        <key alias="packageReadme">crwdns172712:0crwdne172712:0</key>
+        <key alias="packageRepository">crwdns172714:0crwdne172714:0</key>
+        <key alias="packageUninstallConfirm">crwdns172716:0crwdne172716:0</key>
+        <key alias="packageUninstalledHeader">crwdns172718:0crwdne172718:0</key>
+        <key alias="packageUninstalledText">crwdns172720:0crwdne172720:0</key>
+        <key alias="packageUninstallHeader">crwdns172722:0crwdne172722:0</key>
+        <key alias="packageUninstallText"><![CDATA[crwdns172724:0crwdne172724:0]]></key>
+        <key alias="packageUpgradeDownload">crwdns172726:0crwdne172726:0</key>
+        <key alias="packageUpgradeHeader">crwdns172728:0crwdne172728:0</key>
+        <key alias="packageUpgradeInstructions">crwdns172730:0crwdne172730:0</key>
+        <key alias="packageUpgradeText">crwdns172732:0crwdne172732:0</key>
+        <key alias="packageVersion">crwdns172734:0crwdne172734:0</key>
+        <key alias="packageVersionHistory">crwdns172736:0crwdne172736:0</key>
+        <key alias="viewPackageWebsite">crwdns172738:0crwdne172738:0</key>
+        <key alias="packageAlreadyInstalled">crwdns172740:0crwdne172740:0</key>
+        <key alias="targetVersionMismatch">crwdns172742:0crwdne172742:0</key>
+        <key alias="installStateUninstalling">crwdns172744:0crwdne172744:0</key>
+        <key alias="installStateDownloading">crwdns172746:0crwdne172746:0</key>
+        <key alias="installStateImporting">crwdns172748:0crwdne172748:0</key>
+        <key alias="installStateInstalling">crwdns172750:0crwdne172750:0</key>
+        <key alias="installStateRestarting">crwdns172752:0crwdne172752:0</key>
+        <key alias="installStateComplete">crwdns172754:0crwdne172754:0</key>
+        <key alias="installStateCompleted">crwdns172756:0crwdne172756:0</key>
+        <key alias="installStateUploading">crwdns172758:0crwdne172758:0</key>
+    </area>
+    <area alias="paste">
+        <key alias="doNothing">crwdns172760:0crwdne172760:0</key>
+        <key alias="errorMessage">crwdns172762:0crwdne172762:0</key>
+        <key alias="removeAll">crwdns172764:0crwdne172764:0</key>
+        <key alias="removeSpecialFormattering">crwdns172766:0crwdne172766:0</key>
+    </area>
+    <area alias="publicAccess">
+        <key alias="paAdvanced">crwdns172768:0crwdne172768:0</key>
+        <key alias="paAdvancedHelp">crwdns172770:0crwdne172770:0</key>
+        <key alias="paAdvancedNoGroups">crwdns172772:0crwdne172772:0</key>
+        <key alias="paErrorPage">crwdns172774:0crwdne172774:0</key>
+        <key alias="paErrorPageHelp">crwdns172776:0crwdne172776:0</key>
+        <key alias="paHowWould">crwdns172778:0crwdne172778:0</key>
+        <key alias="paIsProtected">crwdns172780:0%0crwdne172780:0</key>
+        <key alias="paIsRemoved">crwdns172782:0%0crwdne172782:0</key>
+        <key alias="paLoginPage">crwdns172784:0crwdne172784:0</key>
+        <key alias="paLoginPageHelp">crwdns172786:0crwdne172786:0</key>
+        <key alias="paRemoveProtection">crwdns172788:0crwdne172788:0</key>
+        <key alias="paSelectPages">crwdns172790:0crwdne172790:0</key>
+        <key alias="paSelectRoles">crwdns172792:0crwdne172792:0</key>
+        <key alias="paSetLogin">crwdns172794:0crwdne172794:0</key>
+        <key alias="paSimple">crwdns172796:0crwdne172796:0</key>
+        <key alias="paSimpleHelp">crwdns172798:0crwdne172798:0</key>
+    </area>
+    <area alias="publish">
+        <key alias="contentPublishedFailedAwaitingRelease"><![CDATA[crwdns172800:0%0crwdne172800:0]]></key>
+        <key alias="contentPublishedFailedExpired"><![CDATA[crwdns172802:0%0crwdne172802:0]]></key>
+        <key alias="contentPublishedFailedInvalid"><![CDATA[crwdns172804:0%0crwdnd172804:0%1crwdne172804:0]]></key>
+        <key alias="contentPublishedFailedByEvent"><![CDATA[crwdns172806:0%0crwdne172806:0]]></key>
+        <key alias="contentPublishedFailedByParent"><![CDATA[crwdns172808:0%0crwdne172808:0]]></key>
+        <key alias="includeUnpublished">crwdns172810:0crwdne172810:0</key>
+        <key alias="inProgress">crwdns172812:0crwdne172812:0</key>
+        <key alias="inProgressCounter">crwdns172814:0%0crwdnd172814:0%1crwdne172814:0</key>
+        <key alias="nodePublish">crwdns172816:0%0crwdne172816:0</key>
+        <key alias="nodePublishAll">crwdns172818:0%0crwdne172818:0</key>
+        <key alias="publishAll">crwdns172820:0%0crwdne172820:0</key>
+        <key alias="publishHelp"><![CDATA[crwdns172822:0%0crwdne172822:0]]></key>
+    </area>
+    <area alias="colorpicker">
+        <key alias="noColors">crwdns172824:0crwdne172824:0</key>
+    </area>
+    <area alias="contentPicker">
+        <key alias="pickedTrashedItem">crwdns172826:0crwdne172826:0</key>
+        <key alias="pickedTrashedItems">crwdns172828:0crwdne172828:0</key>
+    </area>
+    <area alias="mediaPicker">
+        <key alias="pickedTrashedItem">crwdns172830:0crwdne172830:0</key>
+        <key alias="pickedTrashedItems">crwdns172832:0crwdne172832:0</key>
+        <key alias="deletedItem">crwdns172834:0crwdne172834:0</key>
+        <key alias="trashed">crwdns172836:0crwdne172836:0</key>
+    </area>
+    <area alias="relatedlinks">
+        <key alias="enterExternal">crwdns172838:0crwdne172838:0</key>
+        <key alias="chooseInternal">crwdns172840:0crwdne172840:0</key>
+        <key alias="caption">crwdns172842:0crwdne172842:0</key>
+        <key alias="link">crwdns172844:0crwdne172844:0</key>
+        <key alias="newWindow">crwdns172846:0crwdne172846:0</key>
+        <key alias="captionPlaceholder">crwdns172848:0crwdne172848:0</key>
+        <key alias="externalLinkPlaceholder">crwdns172850:0crwdne172850:0</key>
+    </area>
+    <area alias="imagecropper">
+        <key alias="reset">crwdns172852:0crwdne172852:0</key>
+        <key alias="saveCrop">crwdns172854:0crwdne172854:0</key>
+        <key alias="addCrop">crwdns172856:0crwdne172856:0</key>
+        <key alias="updateEditCrop">crwdns172858:0crwdne172858:0</key>
+        <key alias="undoEditCrop">crwdns172860:0crwdne172860:0</key>
+    </area>
+    <area alias="rollback">
+        <key alias="headline">crwdns172862:0crwdne172862:0</key>
+        <key alias="currentVersion">crwdns172864:0crwdne172864:0</key>
+        <key alias="diffHelp"><![CDATA[crwdns172866:0crwdne172866:0]]></key>
+        <key alias="documentRolledBack">crwdns172868:0crwdne172868:0</key>
+        <key alias="htmlHelp">crwdns172870:0crwdne172870:0</key>
+        <key alias="rollbackTo">crwdns172872:0crwdne172872:0</key>
+        <key alias="selectVersion">crwdns172874:0crwdne172874:0</key>
+        <key alias="view">crwdns172876:0crwdne172876:0</key>
+    </area>
+    <area alias="scripts">
+        <key alias="editscript">crwdns172878:0crwdne172878:0</key>
+    </area>
+    <area alias="sections">
+        <key alias="concierge">crwdns172880:0crwdne172880:0</key>
+        <key alias="content">crwdns172882:0crwdne172882:0</key>
+        <key alias="courier">crwdns172884:0crwdne172884:0</key>
+        <key alias="developer">crwdns172886:0crwdne172886:0</key>
+        <key alias="installer">crwdns172888:0crwdne172888:0</key>
+        <key alias="media">crwdns172890:0crwdne172890:0</key>
+        <key alias="member">crwdns172892:0crwdne172892:0</key>
+        <key alias="newsletters">crwdns172894:0crwdne172894:0</key>
+        <key alias="settings">crwdns172896:0crwdne172896:0</key>
+        <key alias="statistics">crwdns172898:0crwdne172898:0</key>
+        <key alias="translation">crwdns172900:0crwdne172900:0</key>
+        <key alias="users">crwdns172902:0crwdne172902:0</key>
+        <key alias="help" version="7.0">crwdns172904:0crwdne172904:0</key>
+        <key alias="forms">crwdns172906:0crwdne172906:0</key>
+        <key alias="analytics">crwdns172908:0crwdne172908:0</key>
+    </area>
+    <area alias="help">
+        <key alias="goTo">crwdns172910:0crwdne172910:0</key>
+        <key alias="helpTopicsFor">crwdns172912:0crwdne172912:0</key>
+        <key alias="videoChaptersFor">crwdns172914:0crwdne172914:0</key>
+        <key alias="theBestUmbracoVideoTutorials">crwdns172916:0crwdne172916:0</key>
+    </area>
+    <area alias="settings">
+        <key alias="defaulttemplate">crwdns172918:0crwdne172918:0</key>
+        <key alias="dictionary editor egenskab">crwdns172920:0crwdne172920:0</key>
+        <key alias="importDocumentTypeHelp">crwdns172922:0crwdne172922:0</key>
+        <key alias="newtabname">crwdns172924:0crwdne172924:0</key>
+        <key alias="nodetype">crwdns172926:0crwdne172926:0</key>
+        <key alias="objecttype">crwdns172928:0crwdne172928:0</key>
+        <key alias="stylesheet">crwdns172930:0crwdne172930:0</key>
+        <key alias="script">crwdns172932:0crwdne172932:0</key>
+        <key alias="stylesheet editor egenskab">crwdns172934:0crwdne172934:0</key>
+        <key alias="tab">crwdns172936:0crwdne172936:0</key>
+        <key alias="tabname">crwdns172938:0crwdne172938:0</key>
+        <key alias="tabs">crwdns172940:0crwdne172940:0</key>
+        <key alias="contentTypeEnabled">crwdns172942:0crwdne172942:0</key>
+        <key alias="contentTypeUses">crwdns172944:0crwdne172944:0</key>
+        <key alias="asAContentMasterType">crwdns172946:0crwdne172946:0</key>
+        <key alias="noPropertiesDefinedOnTab">crwdns172948:0crwdne172948:0</key>
+        <key alias="masterDocumentType">crwdns172950:0crwdne172950:0</key>
+        <key alias="createMatchingTemplate">crwdns172952:0crwdne172952:0</key>
+        <key alias="addIcon">crwdns172954:0crwdne172954:0</key>
+    </area>
+    <area alias="sort">
+        <key alias="sortOrder">crwdns172956:0crwdne172956:0</key>
+        <key alias="sortCreationDate">crwdns172958:0crwdne172958:0</key>
+        <key alias="sortDone">crwdns172960:0crwdne172960:0</key>
+        <key alias="sortHelp">crwdns172962:0crwdne172962:0</key>
+        <key alias="sortPleaseWait"><![CDATA[crwdns172964:0crwdne172964:0]]></key>
+    </area>
+    <area alias="speechBubbles">
+        <key alias="validationFailedHeader">crwdns172966:0crwdne172966:0</key>
+        <key alias="validationFailedMessage">crwdns172968:0crwdne172968:0</key>
+        <key alias="operationFailedHeader">crwdns172970:0crwdne172970:0</key>
+        <key alias="operationSavedHeader">crwdns172972:0crwdne172972:0</key>
+        <key alias="invalidUserPermissionsText">crwdns172974:0crwdne172974:0</key>
+        <key alias="operationCancelledHeader">crwdns172976:0crwdne172976:0</key>
+        <key alias="operationCancelledText">crwdns172978:0crwdne172978:0</key>
+        <key alias="contentPublishedFailedByEvent">crwdns172980:0crwdne172980:0</key>
+        <key alias="contentTypeDublicatePropertyType">crwdns172982:0crwdne172982:0</key>
+        <key alias="contentTypePropertyTypeCreated">crwdns172984:0crwdne172984:0</key>
+        <key alias="contentTypePropertyTypeCreatedText"><![CDATA[crwdns172986:0%0crwdnd172986:0%1crwdne172986:0]]></key>
+        <key alias="contentTypePropertyTypeDeleted">crwdns172988:0crwdne172988:0</key>
+        <key alias="contentTypeSavedHeader">crwdns172990:0crwdne172990:0</key>
+        <key alias="contentTypeTabCreated">crwdns172992:0crwdne172992:0</key>
+        <key alias="contentTypeTabDeleted">crwdns172994:0crwdne172994:0</key>
+        <key alias="contentTypeTabDeletedText">crwdns172996:0%0crwdne172996:0</key>
+        <key alias="cssErrorHeader">crwdns172998:0crwdne172998:0</key>
+        <key alias="cssSavedHeader">crwdns173000:0crwdne173000:0</key>
+        <key alias="cssSavedText">crwdns173002:0crwdne173002:0</key>
+        <key alias="dataTypeSaved">crwdns173004:0crwdne173004:0</key>
+        <key alias="dictionaryItemSaved">crwdns173006:0crwdne173006:0</key>
+        <key alias="editContentPublishedFailedByParent">crwdns173008:0crwdne173008:0</key>
+        <key alias="editContentPublishedHeader">crwdns173010:0crwdne173010:0</key>
+        <key alias="editContentPublishedText">crwdns173012:0crwdne173012:0</key>
+        <key alias="editContentPublishedWithExpireDateText">crwdns173014:0%0crwdnd173014:0%1crwdne173014:0</key>
+        <key alias="editContentSavedHeader">crwdns173016:0crwdne173016:0</key>
+        <key alias="editContentSavedText">crwdns173018:0crwdne173018:0</key>
+        <key alias="editContentSavedWithReleaseDateText">crwdns173020:0%0crwdnd173020:0%1crwdne173020:0</key>
+        <key alias="editContentSendToPublish">crwdns173022:0crwdne173022:0</key>
+        <key alias="editContentSendToPublishText">crwdns173024:0crwdne173024:0</key>
+        <key alias="editMediaSaved">crwdns173026:0crwdne173026:0</key>
+        <key alias="editMemberGroupSaved">crwdns173028:0crwdne173028:0</key>
+        <key alias="editMediaSavedText">crwdns173030:0crwdne173030:0</key>
+        <key alias="editMemberSaved">crwdns173032:0crwdne173032:0</key>
+        <key alias="editStylesheetPropertySaved">crwdns173034:0crwdne173034:0</key>
+        <key alias="editStylesheetSaved">crwdns173036:0crwdne173036:0</key>
+        <key alias="editTemplateSaved">crwdns173038:0crwdne173038:0</key>
+        <key alias="editUserError">crwdns173040:0crwdne173040:0</key>
+        <key alias="editUserSaved">crwdns173042:0crwdne173042:0</key>
+        <key alias="editUserTypeSaved">crwdns173044:0crwdne173044:0</key>
+        <key alias="editUserGroupSaved">crwdns173046:0crwdne173046:0</key>
+        <key alias="fileErrorHeader">crwdns173048:0crwdne173048:0</key>
+        <key alias="fileErrorText">crwdns173050:0crwdne173050:0</key>
+        <key alias="fileSavedHeader">crwdns173052:0crwdne173052:0</key>
+        <key alias="fileSavedText">crwdns173054:0crwdne173054:0</key>
+        <key alias="languageSaved">crwdns173056:0crwdne173056:0</key>
+        <key alias="mediaTypeSavedHeader">crwdns173058:0crwdne173058:0</key>
+        <key alias="memberTypeSavedHeader">crwdns173060:0crwdne173060:0</key>
+        <key alias="pythonErrorHeader">crwdns173062:0crwdne173062:0</key>
+        <key alias="pythonErrorText">crwdns173064:0crwdne173064:0</key>
+        <key alias="pythonSavedHeader">crwdns173066:0crwdne173066:0</key>
+        <key alias="pythonSavedText">crwdns173068:0crwdne173068:0</key>
+        <key alias="templateErrorHeader">crwdns173070:0crwdne173070:0</key>
+        <key alias="templateErrorText">crwdns173072:0crwdne173072:0</key>
+        <key alias="templateSavedHeader">crwdns173074:0crwdne173074:0</key>
+        <key alias="templateSavedText">crwdns173076:0crwdne173076:0</key>
+        <key alias="xsltErrorHeader">crwdns173078:0crwdne173078:0</key>
+        <key alias="xsltErrorText">crwdns173080:0crwdne173080:0</key>
+        <key alias="xsltPermissionErrorText">crwdns173082:0crwdne173082:0</key>
+        <key alias="xsltSavedHeader">crwdns173084:0crwdne173084:0</key>
+        <key alias="xsltSavedText">crwdns173086:0crwdne173086:0</key>
+        <key alias="contentUnpublished">crwdns173088:0crwdne173088:0</key>
+        <key alias="partialViewSavedHeader">crwdns173090:0crwdne173090:0</key>
+        <key alias="partialViewSavedText">crwdns173092:0crwdne173092:0</key>
+        <key alias="partialViewErrorHeader">crwdns173094:0crwdne173094:0</key>
+        <key alias="partialViewErrorText">crwdns173096:0crwdne173096:0</key>
+        <key alias="permissionsSavedFor">crwdns173098:0crwdne173098:0</key>
+        <key alias="scriptSavedHeader">crwdns173100:0crwdne173100:0</key>
+        <key alias="scriptSavedText">crwdns173102:0crwdne173102:0</key>
+        <key alias="scriptErrorHeader">crwdns173104:0crwdne173104:0</key>
+        <key alias="scriptErrorText">crwdns173106:0crwdne173106:0</key>
+        <key alias="cssErrorText">crwdns173108:0crwdne173108:0</key>
+        <key alias="deleteUserGroupsSuccess">crwdns173110:0%0crwdne173110:0</key>
+        <key alias="deleteUserGroupSuccess">crwdns173112:0%0crwdne173112:0</key>
+        <key alias="enableUsersSuccess">crwdns173114:0%0crwdne173114:0</key>
+        <key alias="enableUsersError">crwdns173116:0crwdne173116:0</key>
+        <key alias="disableUsersSuccess">crwdns173118:0%0crwdne173118:0</key>
+        <key alias="disableUsersError">crwdns173120:0crwdne173120:0</key>
+        <key alias="enableUserSuccess">crwdns173122:0%0crwdne173122:0</key>
+        <key alias="enableUserError">crwdns173124:0crwdne173124:0</key>
+        <key alias="disableUserSuccess">crwdns173126:0%0crwdne173126:0</key>
+        <key alias="disableUserError">crwdns173128:0crwdne173128:0</key>
+        <key alias="setUserGroupOnUsersSuccess">crwdns173130:0crwdne173130:0</key>
+        <key alias="deleteUserGroupsSuccess">crwdns173132:0%0crwdne173132:0</key>
+        <key alias="deleteUserGroupSuccess">crwdns173134:0%0crwdne173134:0</key>
+        <key alias="unlockUsersSuccess">crwdns173136:0%0crwdne173136:0</key>
+        <key alias="unlockUsersError">crwdns173138:0crwdne173138:0</key>
+        <key alias="unlockUserSuccess">crwdns173140:0%0crwdne173140:0</key>
+        <key alias="unlockUserError">crwdns173142:0crwdne173142:0</key>
+        <key alias="memberExportedSuccess">crwdns173144:0crwdne173144:0</key>
+        <key alias="memberExportedError">crwdns173146:0crwdne173146:0</key>
+        <key alias="deleteUserSuccess">crwdns173148:0%0crwdne173148:0</key>
+        <key alias="resendInviteHeader">crwdns173150:0crwdne173150:0</key>
+        <key alias="resendInviteSuccess">crwdns173152:0%0crwdne173152:0</key>
+    </area>
+    <area alias="stylesheet">
+        <key alias="aliasHelp">crwdns173154:0crwdne173154:0</key>
+        <key alias="editstylesheet">crwdns173156:0crwdne173156:0</key>
+        <key alias="editstylesheetproperty">crwdns173158:0crwdne173158:0</key>
+        <key alias="nameHelp">crwdns173160:0crwdne173160:0</key>
+        <key alias="preview">crwdns173162:0crwdne173162:0</key>
+        <key alias="styles">crwdns173164:0crwdne173164:0</key>
+    </area>
+
+    <area alias="template">
+        <key alias="deleteByIdFailed">crwdns173166:0%0crwdne173166:0</key>
+        <key alias="edittemplate">crwdns173168:0crwdne173168:0</key>
+
+        <key alias="insertSections">crwdns173170:0crwdne173170:0</key>
+        <key alias="insertContentArea">crwdns173172:0crwdne173172:0</key>
+        <key alias="insertContentAreaPlaceHolder">crwdns173174:0crwdne173174:0</key>
+
+        <key alias="insert">crwdns173176:0crwdne173176:0</key>
+        <key alias="insertDesc">crwdns173178:0crwdne173178:0</key>
+
+        <key alias="insertDictionaryItem">crwdns173180:0crwdne173180:0</key>
+        <key alias="insertDictionaryItemDesc">crwdns173182:0crwdne173182:0</key>
+
+        <key alias="insertMacro">crwdns173184:0crwdne173184:0</key>
+        <key alias="insertMacroDesc">crwdns173186:0crwdne173186:0</key>
+
+        <key alias="insertPageField">crwdns173188:0crwdne173188:0</key>
+        <key alias="insertPageFieldDesc">crwdns173190:0crwdne173190:0</key>
+
+        <key alias="insertPartialView">crwdns173192:0crwdne173192:0</key>
+        <key alias="insertPartialViewDesc">crwdns173194:0crwdne173194:0</key>
+
+        <key alias="mastertemplate">crwdns173196:0crwdne173196:0</key>
+        <key alias="noMastertemplate">crwdns173198:0crwdne173198:0</key>
+        <key alias="noMaster">crwdns173200:0crwdne173200:0</key>
+
+        <key alias="renderBody">crwdns173202:0crwdne173202:0</key>
+        <key alias="renderBodyDesc"><![CDATA[crwdns173204:0crwdne173204:0]]></key>
+
+
+        <key alias="defineSection">crwdns173206:0crwdne173206:0</key>
+        <key alias="defineSectionDesc"><![CDATA[crwdns173208:0{ ... }crwdne173208:0]]></key>
+
+        <key alias="renderSection">crwdns173210:0crwdne173210:0</key>
+        <key alias="renderSectionDesc"><![CDATA[crwdns173212:0[name]crwdnd173212:0{ ... }crwdne173212:0]]></key>
+
+        <key alias="sectionName">crwdns173214:0crwdne173214:0</key>
+        <key alias="sectionMandatory">crwdns173216:0crwdne173216:0</key>
+        <key alias="sectionMandatoryDesc">crwdns173218:0crwdne173218:0<code>crwdns173220:0crwdne173220:0</code>crwdns173222:0crwdne173222:0</key>
+
+
+        <key alias="queryBuilder">crwdns173224:0crwdne173224:0</key>
+        <key alias="buildQuery">crwdns173226:0crwdne173226:0</key>
+        <key alias="itemsReturned">crwdns173228:0crwdne173228:0</key>
+
+        <key alias="iWant">crwdns173230:0crwdne173230:0</key>
+        <key alias="allContent">crwdns173232:0crwdne173232:0</key>
+        <key alias="contentOfType">crwdns173234:0%0crwdne173234:0</key>
+        <key alias="from">crwdns173236:0crwdne173236:0</key>
+        <key alias="websiteRoot">crwdns173238:0crwdne173238:0</key>
+        <key alias="where">crwdns173240:0crwdne173240:0</key>
+        <key alias="and">crwdns173242:0crwdne173242:0</key>
+
+        <key alias="is">crwdns173244:0crwdne173244:0</key>
+        <key alias="isNot">crwdns173246:0crwdne173246:0</key>
+        <key alias="before">crwdns173248:0crwdne173248:0</key>
+        <key alias="beforeIncDate">crwdns173250:0crwdne173250:0</key>
+        <key alias="after">crwdns173252:0crwdne173252:0</key>
+        <key alias="afterIncDate">crwdns173254:0crwdne173254:0</key>
+        <key alias="equals">crwdns173256:0crwdne173256:0</key>
+        <key alias="doesNotEqual">crwdns173258:0crwdne173258:0</key>
+        <key alias="contains">crwdns173260:0crwdne173260:0</key>
+        <key alias="doesNotContain">crwdns173262:0crwdne173262:0</key>
+        <key alias="greaterThan">crwdns173264:0crwdne173264:0</key>
+        <key alias="greaterThanEqual">crwdns173266:0crwdne173266:0</key>
+        <key alias="lessThan">crwdns173268:0crwdne173268:0</key>
+        <key alias="lessThanEqual">crwdns173270:0crwdne173270:0</key>
+
+        <key alias="id">crwdns173272:0crwdne173272:0</key>
+        <key alias="name">crwdns173274:0crwdne173274:0</key>
+        <key alias="createdDate">crwdns173276:0crwdne173276:0</key>
+        <key alias="lastUpdatedDate">crwdns173278:0crwdne173278:0</key>
+
+        <key alias="orderBy">crwdns173280:0crwdne173280:0</key>
+        <key alias="ascending">crwdns173282:0crwdne173282:0</key>
+        <key alias="descending">crwdns173284:0crwdne173284:0</key>
+
+        <key alias="template">crwdns173286:0crwdne173286:0</key>
+
+    </area>
+
+    <area alias="grid">
+        <key alias="rte">crwdns173288:0crwdne173288:0</key>
+        <key alias="media">crwdns173290:0crwdne173290:0</key>
+        <key alias="macro">crwdns173292:0crwdne173292:0</key>
+        <key alias="embed">crwdns173294:0crwdne173294:0</key>
+        <key alias="headline">crwdns173296:0crwdne173296:0</key>
+        <key alias="quote">crwdns173298:0crwdne173298:0</key>
+        <key alias="insertControl">crwdns173300:0crwdne173300:0</key>
+        <key alias="chooseLayout">crwdns173302:0crwdne173302:0</key>
+        <key alias="addRows">crwdns173304:0crwdne173304:0</key>
+        <key alias="addElement">crwdns173306:0crwdne173306:0</key>
+        <key alias="dropElement">crwdns173308:0crwdne173308:0</key>
+        <key alias="settingsApplied">crwdns173310:0crwdne173310:0</key>
+
+        <key alias="contentNotAllowed">crwdns173312:0crwdne173312:0</key>
+        <key alias="contentAllowed">crwdns173314:0crwdne173314:0</key>
+
+        <key alias="clickToEmbed">crwdns173316:0crwdne173316:0</key>
+        <key alias="clickToInsertImage">crwdns173318:0crwdne173318:0</key>
+        <key alias="placeholderImageCaption">crwdns173320:0crwdne173320:0</key>
+        <key alias="placeholderWriteHere">crwdns173322:0crwdne173322:0</key>
+
+        <key alias="gridLayouts">crwdns173324:0crwdne173324:0</key>
+        <key alias="gridLayoutsDetail">crwdns173326:0crwdne173326:0</key>
+        <key alias="addGridLayout">crwdns173328:0crwdne173328:0</key>
+        <key alias="addGridLayoutDetail">crwdns173330:0crwdne173330:0</key>
+        <key alias="rowConfigurations">crwdns173332:0crwdne173332:0</key>
+        <key alias="rowConfigurationsDetail">crwdns173334:0crwdne173334:0</key>
+        <key alias="addRowConfiguration">crwdns173336:0crwdne173336:0</key>
+        <key alias="addRowConfigurationDetail">crwdns173338:0crwdne173338:0</key>
+
+        <key alias="columns">crwdns173340:0crwdne173340:0</key>
+        <key alias="columnsDetails">crwdns173342:0crwdne173342:0</key>
+
+        <key alias="settings">crwdns173344:0crwdne173344:0</key>
+        <key alias="settingsDetails">crwdns173346:0crwdne173346:0</key>
+
+        <key alias="styles">crwdns173348:0crwdne173348:0</key>
+        <key alias="stylesDetails">crwdns173350:0crwdne173350:0</key>
+
+        <key alias="settingDialogDetails">crwdns173352:0crwdne173352:0</key>
+
+        <key alias="allowAllEditors">crwdns173354:0crwdne173354:0</key>
+        <key alias="allowAllRowConfigurations">crwdns173356:0crwdne173356:0</key>
+        <key alias="maxItems">crwdns173358:0crwdne173358:0</key>
+        <key alias="maxItemsDescription">crwdns173360:0crwdne173360:0</key>
+        <key alias="setAsDefault">crwdns173362:0crwdne173362:0</key>
+        <key alias="chooseExtra">crwdns173364:0crwdne173364:0</key>
+        <key alias="chooseDefault">crwdns173366:0crwdne173366:0</key>
+        <key alias="areAdded">crwdns173368:0crwdne173368:0</key>
+    </area>
+
+    <area alias="contentTypeEditor">
+
+        <key alias="compositions">crwdns173370:0crwdne173370:0</key>
+        <key alias="noTabs">crwdns173372:0crwdne173372:0</key>
+        <key alias="addNewTab">crwdns173374:0crwdne173374:0</key>
+        <key alias="addAnotherTab">crwdns173376:0crwdne173376:0</key>
+        <key alias="inheritedFrom">crwdns173378:0crwdne173378:0</key>
+        <key alias="addProperty">crwdns173380:0crwdne173380:0</key>
+        <key alias="requiredLabel">crwdns173382:0crwdne173382:0</key>
+
+        <key alias="enableListViewHeading">crwdns173384:0crwdne173384:0</key>
+        <key alias="enableListViewDescription">crwdns173386:0crwdne173386:0</key>
+
+        <key alias="allowedTemplatesHeading">crwdns173388:0crwdne173388:0</key>
+        <key alias="allowedTemplatesDescription">crwdns173390:0crwdne173390:0</key>
+
+        <key alias="allowAsRootHeading">crwdns173392:0crwdne173392:0</key>
+        <key alias="allowAsRootDescription">crwdns173394:0crwdne173394:0</key>
+        <key alias="allowAsRootCheckbox">crwdns173396:0crwdne173396:0</key>
+
+        <key alias="childNodesHeading">crwdns173398:0crwdne173398:0</key>
+        <key alias="childNodesDescription">crwdns173400:0crwdne173400:0</key>
+
+        <key alias="chooseChildNode">crwdns173402:0crwdne173402:0</key>
+
+        <key alias="compositionsDescription">crwdns173404:0crwdne173404:0</key>
+        <key alias="compositionInUse">crwdns173406:0crwdne173406:0</key>
+        <key alias="noAvailableCompositions">crwdns173408:0crwdne173408:0</key>
+
+        <key alias="availableEditors">crwdns173410:0crwdne173410:0</key>
+        <key alias="reuse">crwdns173412:0crwdne173412:0</key>
+        <key alias="editorSettings">crwdns173414:0crwdne173414:0</key>
+
+        <key alias="configuration">crwdns173416:0crwdne173416:0</key>
+
+        <key alias="yesDelete">crwdns173418:0crwdne173418:0</key>
+
+        <key alias="movedUnderneath">crwdns173420:0crwdne173420:0</key>
+        <key alias="copiedUnderneath">crwdns173422:0crwdne173422:0</key>
+        <key alias="folderToMove">crwdns173424:0crwdne173424:0</key>
+        <key alias="folderToCopy">crwdns173426:0crwdne173426:0</key>
+        <key alias="structureBelow">crwdns173428:0crwdne173428:0</key>
+
+        <key alias="allDocumentTypes">crwdns173430:0crwdne173430:0</key>
+        <key alias="allDocuments">crwdns173432:0crwdne173432:0</key>
+        <key alias="allMediaItems">crwdns173434:0crwdne173434:0</key>
+
+        <key alias="usingThisDocument">crwdns173436:0crwdne173436:0</key>
+        <key alias="usingThisMedia">crwdns173438:0crwdne173438:0</key>
+        <key alias="usingThisMember">crwdns173440:0crwdne173440:0</key>
+
+        <key alias="andAllDocuments">crwdns173442:0crwdne173442:0</key>
+        <key alias="andAllMediaItems">crwdns173444:0crwdne173444:0</key>
+        <key alias="andAllMembers">crwdns173446:0crwdne173446:0</key>
+
+        <key alias="thisEditorUpdateSettings">crwdns173448:0crwdne173448:0</key>
+
+        <key alias="memberCanEdit">crwdns173450:0crwdne173450:0</key>
+        <key alias="memberCanEditDescription">crwdns173452:0crwdne173452:0</key>
+        <key alias="isSensitiveData">crwdns173454:0crwdne173454:0</key>
+        <key alias="isSensitiveDataDescription">crwdns173456:0crwdne173456:0</key>
+        <key alias="showOnMemberProfile">crwdns173458:0crwdne173458:0</key>
+        <key alias="showOnMemberProfileDescription">crwdns173460:0crwdne173460:0</key>
+
+        <key alias="tabHasNoSortOrder">crwdns173462:0crwdne173462:0</key>
+
+        <key alias="compositionUsageHeading">crwdns173464:0crwdne173464:0</key>
+        <key alias="compositionUsageSpecification">crwdns173466:0crwdne173466:0</key>
+    </area>
+
+    <area alias="modelsBuilder">
+        <key alias="buildingModels">crwdns173468:0crwdne173468:0</key>
+        <key alias="waitingMessage">crwdns173470:0crwdne173470:0</key>
+        <key alias="modelsGenerated">crwdns173472:0crwdne173472:0</key>
+        <key alias="modelsGeneratedError">crwdns173474:0crwdne173474:0</key>
+        <key alias="modelsExceptionInUlog">crwdns173476:0crwdne173476:0</key>
+    </area>
+
+    <area alias="templateEditor">
+        <key alias="addFallbackField">crwdns173478:0crwdne173478:0</key>
+        <key alias="fallbackField">crwdns173480:0crwdne173480:0</key>
+        <key alias="addDefaultValue">crwdns173482:0crwdne173482:0</key>
+        <key alias="defaultValue">crwdns173484:0crwdne173484:0</key>
+        <key alias="alternativeField">crwdns173486:0crwdne173486:0</key>
+        <key alias="alternativeText">crwdns173488:0crwdne173488:0</key>
+        <key alias="casing">crwdns173490:0crwdne173490:0</key>
+        <key alias="encoding">crwdns173492:0crwdne173492:0</key>
+        <key alias="chooseField">crwdns173494:0crwdne173494:0</key>
+        <key alias="convertLineBreaks">crwdns173496:0crwdne173496:0</key>
+        <key alias="convertLineBreaksDescription">crwdns173498:0crwdne173498:0</key>
+        <key alias="convertLineBreaksHelp">crwdns173500:0crwdne173500:0</key>
+        <key alias="customFields">crwdns173502:0crwdne173502:0</key>
+        <key alias="dateOnly">crwdns173504:0crwdne173504:0</key>
+        <key alias="formatAndEncoding">crwdns173506:0crwdne173506:0</key>
+        <key alias="formatAsDate">crwdns173508:0crwdne173508:0</key>
+        <key alias="formatAsDateDescr">crwdns173510:0crwdne173510:0</key>
+        <key alias="htmlEncode">crwdns173512:0crwdne173512:0</key>
+        <key alias="htmlEncodeHelp">crwdns173514:0crwdne173514:0</key>
+        <key alias="insertedAfter">crwdns173516:0crwdne173516:0</key>
+        <key alias="insertedBefore">crwdns173518:0crwdne173518:0</key>
+        <key alias="lowercase">crwdns173520:0crwdne173520:0</key>
+        <key alias="modifyOutput">crwdns173522:0crwdne173522:0</key>
+        <key alias="none">crwdns173524:0crwdne173524:0</key>
+        <key alias="outputSample">crwdns173526:0crwdne173526:0</key>
+        <key alias="postContent">crwdns173528:0crwdne173528:0</key>
+        <key alias="preContent">crwdns173530:0crwdne173530:0</key>
+        <key alias="recursive">crwdns173532:0crwdne173532:0</key>
+        <key alias="recursiveDescr">crwdns173534:0crwdne173534:0</key>
+        <key alias="separator">crwdns173536:0crwdne173536:0</key>
+        <key alias="standardFields">crwdns173538:0crwdne173538:0</key>
+        <key alias="uppercase">crwdns173540:0crwdne173540:0</key>
+        <key alias="urlEncode">crwdns173542:0crwdne173542:0</key>
+        <key alias="urlEncodeHelp">crwdns173544:0crwdne173544:0</key>
+        <key alias="usedIfAllEmpty">crwdns173546:0crwdne173546:0</key>
+        <key alias="usedIfEmpty">crwdns173548:0crwdne173548:0</key>
+        <key alias="withTime">crwdns173550:0crwdne173550:0</key>
+    </area>
+    <area alias="translation">
+        <key alias="assignedTasks">crwdns173552:0crwdne173552:0</key>
+        <key alias="assignedTasksHelp"><![CDATA[crwdns173554:0crwdne173554:0]]></key>
+        <key alias="closeTask">crwdns173556:0crwdne173556:0</key>
+        <key alias="details">crwdns173558:0crwdne173558:0</key>
+        <key alias="downloadAllAsXml">crwdns173560:0crwdne173560:0</key>
+        <key alias="downloadTaskAsXml">crwdns173562:0crwdne173562:0</key>
+        <key alias="DownloadXmlDTD">crwdns173564:0crwdne173564:0</key>
+        <key alias="fields">crwdns173566:0crwdne173566:0</key>
+        <key alias="includeSubpages">crwdns173568:0crwdne173568:0</key>
+        <key alias="mailBody"><![CDATA[crwdns173570:0%0crwdnd173570:0%1crwdnd173570:0%5crwdnd173570:0%2crwdnd173570:0%3crwdnd173570:0%4crwdnd173570:0%3crwdne173570:0]]></key>
+        <key alias="mailSubject">crwdns173572:0[%0%]crwdnd173572:0%1crwdne173572:0</key>
+        <key alias="noTranslators">crwdns173574:0crwdne173574:0</key>
+        <key alias="ownedTasks">crwdns173576:0crwdne173576:0</key>
+        <key alias="ownedTasksHelp"><![CDATA[crwdns173578:0crwdne173578:0]]></key>
+        <key alias="pageHasBeenSendToTranslation">crwdns173580:0%0crwdne173580:0</key>
+        <key alias="noLanguageSelected">crwdns173582:0crwdne173582:0</key>
+        <key alias="sendToTranslate">crwdns173584:0%0crwdne173584:0</key>
+        <key alias="taskAssignedBy">crwdns173586:0crwdne173586:0</key>
+        <key alias="taskOpened">crwdns173588:0crwdne173588:0</key>
+        <key alias="totalWords">crwdns173590:0crwdne173590:0</key>
+        <key alias="translateTo">crwdns173592:0crwdne173592:0</key>
+        <key alias="translationDone">crwdns173594:0crwdne173594:0</key>
+        <key alias="translationDoneHelp">crwdns173596:0crwdne173596:0</key>
+        <key alias="translationFailed">crwdns173598:0crwdne173598:0</key>
+        <key alias="translationOptions">crwdns173600:0crwdne173600:0</key>
+        <key alias="translator">crwdns173602:0crwdne173602:0</key>
+        <key alias="uploadTranslationXml">crwdns173604:0crwdne173604:0</key>
+    </area>
+    <area alias="treeHeaders">
+        <key alias="content">crwdns173606:0crwdne173606:0</key>
+        <key alias="contentBlueprints">crwdns173608:0crwdne173608:0</key>
+        <key alias="media">crwdns173610:0crwdne173610:0</key>
+        <key alias="cacheBrowser">crwdns173612:0crwdne173612:0</key>
+        <key alias="contentRecycleBin">crwdns173614:0crwdne173614:0</key>
+        <key alias="createdPackages">crwdns173616:0crwdne173616:0</key>
+        <key alias="dataTypes">crwdns173618:0crwdne173618:0</key>
+        <key alias="dictionary">crwdns173620:0crwdne173620:0</key>
+        <key alias="installedPackages">crwdns173622:0crwdne173622:0</key>
+        <key alias="installSkin">crwdns173624:0crwdne173624:0</key>
+        <key alias="installStarterKit">crwdns173626:0crwdne173626:0</key>
+        <key alias="languages">crwdns173628:0crwdne173628:0</key>
+        <key alias="localPackage">crwdns173630:0crwdne173630:0</key>
+        <key alias="macros">crwdns173632:0crwdne173632:0</key>
+        <key alias="mediaTypes">crwdns173634:0crwdne173634:0</key>
+        <key alias="member">crwdns173636:0crwdne173636:0</key>
+        <key alias="memberGroups">crwdns173638:0crwdne173638:0</key>
+        <key alias="memberRoles">crwdns173640:0crwdne173640:0</key>
+        <key alias="memberTypes">crwdns173642:0crwdne173642:0</key>
+        <key alias="documentTypes">crwdns173644:0crwdne173644:0</key>
+        <key alias="relationTypes">crwdns173646:0crwdne173646:0</key>
+        <key alias="packager">crwdns173648:0crwdne173648:0</key>
+        <key alias="packages">crwdns173650:0crwdne173650:0</key>
+        <key alias="partialViews">crwdns173652:0crwdne173652:0</key>
+        <key alias="partialViewMacros">crwdns173654:0crwdne173654:0</key>
+        <key alias="python">crwdns173656:0crwdne173656:0</key>
+        <key alias="repositories">crwdns173658:0crwdne173658:0</key>
+        <key alias="runway">crwdns173660:0crwdne173660:0</key>
+        <key alias="runwayModules">crwdns173662:0crwdne173662:0</key>
+        <key alias="scripting">crwdns173664:0crwdne173664:0</key>
+        <key alias="scripts">crwdns173666:0crwdne173666:0</key>
+        <key alias="stylesheets">crwdns173668:0crwdne173668:0</key>
+        <key alias="templates">crwdns173670:0crwdne173670:0</key>
+        <key alias="xslt">crwdns173672:0crwdne173672:0</key>
+        <key alias="analytics">crwdns173674:0crwdne173674:0</key>
+        <key alias="users">crwdns173676:0crwdne173676:0</key>
+    </area>
+    <area alias="update">
+        <key alias="updateAvailable">crwdns173678:0crwdne173678:0</key>
+        <key alias="updateDownloadText">crwdns173680:0%0crwdne173680:0</key>
+        <key alias="updateNoServer">crwdns173682:0crwdne173682:0</key>
+        <key alias="updateNoServerError">crwdns173684:0crwdne173684:0</key>
+    </area>
+    <area alias="user">
+        <key alias="access">crwdns173686:0crwdne173686:0</key>
+        <key alias="accessHelp">crwdns173688:0crwdne173688:0</key>
+        <key alias="assignAccess">crwdns173690:0crwdne173690:0</key>
+        <key alias="administrators">crwdns173692:0crwdne173692:0</key>
+        <key alias="categoryField">crwdns173694:0crwdne173694:0</key>
+        <key alias="createDate">crwdns173696:0crwdne173696:0</key>
+        <key alias="changePassword">crwdns173698:0Passwordcrwdne173698:0</key>
+        <key alias="changePhoto">crwdns173700:0crwdne173700:0</key>
+        <key alias="newPassword">crwdns173702:0crwdne173702:0</key>
+        <key alias="noLockouts">crwdns173704:0crwdne173704:0</key>
+        <key alias="noPasswordChange">crwdns173706:0crwdne173706:0</key>
+        <key alias="confirmNewPassword">crwdns173708:0crwdne173708:0</key>
+        <key alias="changePasswordDescription">crwdns173710:0Passwordcrwdne173710:0</key>
+        <key alias="contentChannel">crwdns173712:0crwdne173712:0</key>
+        <key alias="createAnotherUser">crwdns173714:0crwdne173714:0</key>
+        <key alias="createUserHelp">crwdns173716:0crwdne173716:0</key>
+        <key alias="descriptionField">crwdns173718:0crwdne173718:0</key>
+        <key alias="disabled">crwdns173720:0crwdne173720:0</key>
+        <key alias="documentType">crwdns173722:0crwdne173722:0</key>
+        <key alias="editors">crwdns173724:0crwdne173724:0</key>
+        <key alias="excerptField">crwdns173726:0crwdne173726:0</key>
+        <key alias="failedPasswordAttempts">crwdns173728:0crwdne173728:0</key>
+        <key alias="goToProfile">crwdns173730:0crwdne173730:0</key>
+        <key alias="groupsHelp">crwdns173732:0crwdne173732:0</key>
+        <key alias="inviteAnotherUser">crwdns173734:0crwdne173734:0</key>
+        <key alias="inviteUserHelp">crwdns173736:0crwdne173736:0</key>
+        <key alias="language">crwdns173738:0crwdne173738:0</key>
+        <key alias="languageHelp">crwdns173740:0crwdne173740:0</key>
+        <key alias="lastLockoutDate">crwdns173742:0crwdne173742:0</key>
+        <key alias="lastLogin">crwdns173744:0crwdne173744:0</key>
+        <key alias="lastPasswordChangeDate">crwdns173746:0Passwordcrwdne173746:0</key>
+        <key alias="loginname">crwdns173748:0crwdne173748:0</key>
+        <key alias="mediastartnode">crwdns173750:0crwdne173750:0</key>
+        <key alias="mediastartnodehelp">crwdns173752:0crwdne173752:0</key>
+        <key alias="mediastartnodes">crwdns173754:0crwdne173754:0</key>
+        <key alias="mediastartnodeshelp">crwdns173756:0crwdne173756:0</key>
+        <key alias="modules">crwdns173758:0crwdne173758:0</key>
+        <key alias="noConsole">crwdns173760:0crwdne173760:0</key>
+        <key alias="noLogin">crwdns173762:0crwdne173762:0</key>
+        <key alias="oldPassword">crwdns173764:0crwdne173764:0</key>
+        <key alias="password">crwdns173766:0Passwordcrwdne173766:0</key>
+        <key alias="resetPassword">crwdns173768:0crwdne173768:0</key>
+        <key alias="passwordChanged">crwdns173770:0crwdne173770:0</key>
+        <key alias="passwordConfirm">crwdns173772:0crwdne173772:0</key>
+        <key alias="passwordEnterNew">crwdns173774:0crwdne173774:0</key>
+        <key alias="passwordIsBlank">crwdns173776:0crwdne173776:0</key>
+        <key alias="passwordCurrent">crwdns173778:0crwdne173778:0</key>
+        <key alias="passwordInvalid">crwdns173780:0crwdne173780:0</key>
+        <key alias="passwordIsDifferent">crwdns173782:0crwdne173782:0</key>
+        <key alias="passwordMismatch">crwdns173784:0crwdne173784:0</key>
+        <key alias="permissionReplaceChildren">crwdns173786:0crwdne173786:0</key>
+        <key alias="permissionSelectedPages">crwdns173788:0crwdne173788:0</key>
+        <key alias="permissionSelectPages">crwdns173790:0crwdne173790:0</key>
+        <key alias="removePhoto">crwdns173792:0crwdne173792:0</key>
+        <key alias="permissionsDefault">crwdns173794:0crwdne173794:0</key>
+        <key alias="permissionsGranular">crwdns173796:0crwdne173796:0</key>
+        <key alias="permissionsGranularHelp">crwdns173798:0crwdne173798:0</key>
+        <key alias="profile">crwdns173800:0crwdne173800:0</key>
+        <key alias="searchAllChildren">crwdns173802:0crwdne173802:0</key>
+        <key alias="sectionsHelp">crwdns173804:0crwdne173804:0</key>
+        <key alias="selectUserGroups">crwdns173806:0crwdne173806:0</key>
+        <key alias="noStartNode">crwdns173808:0crwdne173808:0</key>
+        <key alias="noStartNodes">crwdns173810:0crwdne173810:0</key>
+        <key alias="stateActive">crwdns173812:0crwdne173812:0</key>
+        <key alias="stateAll">crwdns173814:0crwdne173814:0</key>
+        <key alias="stateDisabled">crwdns173816:0crwdne173816:0</key>
+        <key alias="stateLockedOut">crwdns173818:0crwdne173818:0</key>
+        <key alias="stateInvited">crwdns173820:0crwdne173820:0</key>
+        <key alias="startnode">crwdns173822:0crwdne173822:0</key>
+        <key alias="startnodehelp">crwdns173824:0crwdne173824:0</key>
+        <key alias="startnodes">crwdns173826:0crwdne173826:0</key>
+        <key alias="startnodeshelp">crwdns173828:0crwdne173828:0</key>
+        <key alias="sortNameAscending">crwdns173830:0crwdne173830:0</key>
+        <key alias="sortNameDescending">crwdns173832:0crwdne173832:0</key>
+        <key alias="sortCreateDateDescending">crwdns173834:0crwdne173834:0</key>
+        <key alias="sortCreateDateAscending">crwdns173836:0crwdne173836:0</key>
+        <key alias="sortLastLoginDateDescending">crwdns173838:0crwdne173838:0</key>
+        <key alias="updateDate">crwdns173840:0crwdne173840:0</key>
+        <key alias="userCreated">crwdns173842:0crwdne173842:0</key>
+        <key alias="userCreatedSuccessHelp">crwdns173844:0crwdne173844:0</key>
+        <key alias="userManagement">crwdns173846:0crwdne173846:0</key>
+        <key alias="username">crwdns173848:0crwdne173848:0</key>
+        <key alias="userPermissions">crwdns173850:0crwdne173850:0</key>
+        <key alias="userGroupPermissions">crwdns173852:0crwdne173852:0</key>
+        <key alias="usergroup">crwdns173854:0crwdne173854:0</key>
+        <key alias="userGroups">crwdns173856:0crwdne173856:0</key>
+        <key alias="userInvited">crwdns173858:0crwdne173858:0</key>
+        <key alias="userInvitedSuccessHelp">crwdns173860:0crwdne173860:0</key>
+        <key alias="userinviteWelcomeMessage">crwdns173862:0crwdne173862:0</key>
+        <key alias="userinviteExpiredMessage">crwdns173864:0crwdne173864:0</key>
+        <key alias="userinviteAvatarMessage">crwdns173866:0crwdne173866:0</key>
+        <key alias="writer">crwdns173868:0crwdne173868:0</key>
+        <key alias="translator">crwdns173870:0crwdne173870:0</key>
+        <key alias="change">crwdns173872:0crwdne173872:0</key>
+        <key alias="yourProfile" version="7.0">crwdns173874:0crwdne173874:0</key>
+        <key alias="yourHistory" version="7.0">crwdns173876:0crwdne173876:0</key>
+        <key alias="sessionExpires" version="7.0">crwdns173878:0crwdne173878:0</key>
+        <key alias="inviteUser">crwdns173880:0crwdne173880:0</key>
+        <key alias="createUser">crwdns173882:0crwdne173882:0</key>
+        <key alias="sendInvite">crwdns173884:0crwdne173884:0</key>
+        <key alias="backToUsers">crwdns173886:0crwdne173886:0</key>
+        <key alias="inviteEmailCopySubject">crwdns173888:0crwdne173888:0</key>
+        <key alias="inviteEmailCopyFormat"><![CDATA[crwdns173890:0[endif]crwdnd173890:0[endif]crwdnd173890:0%0crwdnd173890:0%4crwdnd173890:0%1crwdnd173890:0%1crwdnd173890:0%1crwdnd173890:0%2crwdnd173890:0%3crwdnd173890:0%3crwdnd173890:0%3crwdne173890:0]]></key>
+        <key alias="invite">crwdns173892:0crwdne173892:0</key>
+        <key alias="defaultInvitationMessage">crwdns173894:0crwdne173894:0</key>
+        <key alias="deleteUser">crwdns173896:0crwdne173896:0</key>
+        <key alias="deleteUserConfirmation">crwdns173898:0crwdne173898:0</key>
+    </area>
+
+    <area alias="validation">
+        <key alias="validation">crwdns173900:0crwdne173900:0</key>
+        <key alias="validateAsEmail">crwdns173902:0crwdne173902:0</key>
+        <key alias="validateAsNumber">crwdns173904:0crwdne173904:0</key>
+        <key alias="validateAsUrl">crwdns173906:0crwdne173906:0</key>
+        <key alias="enterCustomValidation">crwdns173908:0crwdne173908:0</key>
+        <key alias="fieldIsMandatory">crwdns173910:0crwdne173910:0</key>
+        <key alias="validationRegExp">crwdns173912:0crwdne173912:0</key>
+        <key alias="minCount">crwdns173914:0crwdne173914:0</key>
+        <key alias="maxCount">crwdns173916:0crwdne173916:0</key>
+        <key alias="items">crwdns173918:0crwdne173918:0</key>
+        <key alias="itemsSelected">crwdns173920:0crwdne173920:0</key>
+        <key alias="invalidDate">crwdns173922:0crwdne173922:0</key>
+        <key alias="invalidNumber">crwdns173924:0crwdne173924:0</key>
+        <key alias="invalidEmail">crwdns173926:0crwdne173926:0</key>
+    </area>
+    <area alias="healthcheck">
+        <!-- The following keys get these tokens passed in:
+	     0: Current value
+		   1: Recommended value
+		   2: XPath
+		   3: Configuration file path
+	  -->
+        <key alias="checkSuccessMessage">crwdns173928:0%0crwdne173928:0</key>
+        <key alias="rectifySuccessMessage">crwdns173930:0%1crwdnd173930:0%2crwdnd173930:0%3crwdne173930:0</key>
+        <key alias="checkErrorMessageDifferentExpectedValue">crwdns173932:0%1crwdnd173932:0%2crwdnd173932:0%3crwdnd173932:0%0crwdne173932:0</key>
+        <key alias="checkErrorMessageUnexpectedValue">crwdns173934:0%0crwdnd173934:0%2crwdnd173934:0%3crwdne173934:0</key>
+
+        <!-- The following keys get these tokens passed in:
+	     0: Current value
+		   1: Recommended value
+	  -->
+        <key alias="customErrorsCheckSuccessMessage">crwdns173936:0%0crwdne173936:0</key>
+        <key alias="customErrorsCheckErrorMessage">crwdns173938:0%0crwdnd173938:0%1crwdne173938:0</key>
+        <key alias="customErrorsCheckRectifySuccessMessage">crwdns173940:0%0crwdne173940:0</key>
+
+        <key alias="macroErrorModeCheckSuccessMessage">crwdns173942:0%0crwdne173942:0</key>
+        <key alias="macroErrorModeCheckErrorMessage">crwdns173944:0%0crwdnd173944:0%1crwdne173944:0</key>
+        <key alias="macroErrorModeCheckRectifySuccessMessage">crwdns173946:0%0crwdne173946:0</key>
+
+        <!-- The following keys get these tokens passed in:
+	     0: Current value
+		   1: Recommended value
+		   2: Server version
+	  -->
+        <key alias="trySkipIisCustomErrorsCheckSuccessMessage">crwdns173948:0%0crwdnd173948:0%1crwdne173948:0</key>
+        <key alias="trySkipIisCustomErrorsCheckErrorMessage">crwdns173950:0%0crwdnd173950:0%1crwdnd173950:0%2crwdne173950:0</key>
+        <key alias="trySkipIisCustomErrorsCheckRectifySuccessMessage">crwdns173952:0%0crwdne173952:0</key>
+
+        <!-- The following keys get predefined tokens passed in that are not all the same, like above -->
+        <key alias="configurationServiceFileNotFound">crwdns173954:0%0crwdne173954:0</key>
+        <key alias="configurationServiceNodeNotFound"><![CDATA[crwdns173956:0%0crwdnd173956:0%1crwdne173956:0]]></key>
+        <key alias="configurationServiceError">crwdns173958:0%0crwdne173958:0</key>
+
+        <key alias="xmlDataIntegrityCheckMembers">crwdns173960:0%0crwdnd173960:0%1crwdnd173960:0%2crwdne173960:0</key>
+        <key alias="xmlDataIntegrityCheckMedia">crwdns173962:0%0crwdnd173962:0%1crwdnd173962:0%2crwdne173962:0</key>
+        <key alias="xmlDataIntegrityCheckContent">crwdns173964:0%0crwdnd173964:0%1crwdnd173964:0%2crwdne173964:0</key>
+
+        <key alias="databaseSchemaValidationCheckDatabaseOk">crwdns173966:0crwdne173966:0</key>
+        <key alias="databaseSchemaValidationCheckDatabaseErrors">crwdns173968:0%0crwdne173968:0</key>
+        <key alias="databaseSchemaValidationCheckDatabaseLogMessage">crwdns173970:0crwdne173970:0</key>
+
+        <key alias="httpsCheckValidCertificate">crwdns173972:0crwdne173972:0</key>
+        <key alias="httpsCheckInvalidCertificate">crwdns173974:0%0crwdne173974:0</key>
+        <key alias="httpsCheckExpiredCertificate">crwdns173976:0crwdne173976:0</key>
+        <key alias="httpsCheckExpiringCertificate">crwdns173978:0%0crwdne173978:0</key>
+        <key alias="healthCheckInvalidUrl">crwdns173980:0%0crwdnd173980:0%1crwdne173980:0</key>
+        <key alias="httpsCheckIsCurrentSchemeHttps">crwdns173982:0%0crwdne173982:0</key>
+        <key alias="httpsCheckConfigurationRectifyNotPossible">crwdns173984:0crwdne173984:0</key>
+        <key alias="httpsCheckConfigurationCheckResult">crwdns173986:0%0crwdnd173986:0%1crwdne173986:0</key>
+        <key alias="httpsCheckEnableHttpsError">crwdns173988:0%0crwdne173988:0</key>
+
+        <!-- The following keys don't get tokens passed in -->
+        <key alias="httpsCheckEnableHttpsButton">crwdns173990:0crwdne173990:0</key>
+        <key alias="httpsCheckEnableHttpsDescription">crwdns173992:0crwdne173992:0</key>
+        <key alias="httpsCheckEnableHttpsSuccess">crwdns173994:0crwdne173994:0</key>
+
+        <key alias="rectifyButton">crwdns173996:0crwdne173996:0</key>
+        <key alias="cannotRectifyShouldNotEqual">crwdns173998:0crwdne173998:0</key>
+        <key alias="cannotRectifyShouldEqualWithValue">crwdns174000:0crwdne174000:0</key>
+        <key alias="valueToRectifyNotProvided">crwdns174002:0crwdne174002:0</key>
+
+        <key alias="compilationDebugCheckSuccessMessage">crwdns174004:0crwdne174004:0</key>
+        <key alias="compilationDebugCheckErrorMessage">crwdns174006:0crwdne174006:0</key>
+        <key alias="compilationDebugCheckRectifySuccessMessage">crwdns174008:0crwdne174008:0</key>
+
+        <key alias="traceModeCheckSuccessMessage">crwdns174010:0crwdne174010:0</key>
+        <key alias="traceModeCheckErrorMessage">crwdns174012:0crwdne174012:0</key>
+        <key alias="traceModeCheckRectifySuccessMessage">crwdns174014:0crwdne174014:0</key>
+
+        <key alias="folderPermissionsCheckMessage">crwdns174016:0crwdne174016:0</key>
+        <!-- The following keys get these tokens passed in:
+	    0: Comma delimitted list of failed folder paths
+  	-->
+        <key alias="requiredFolderPermissionFailed"><![CDATA[crwdns174018:0%0crwdne174018:0]]></key>
+        <key alias="optionalFolderPermissionFailed"><![CDATA[crwdns174020:0%0crwdne174020:0]]></key>
+
+        <key alias="filePermissionsCheckMessage">crwdns174022:0crwdne174022:0</key>
+        <!-- The following keys get these tokens passed in:
+	    0: Comma delimitted list of failed folder paths
+  	-->
+        <key alias="requiredFilePermissionFailed"><![CDATA[crwdns174024:0%0crwdne174024:0]]></key>
+        <key alias="optionalFilePermissionFailed"><![CDATA[crwdns174026:0%0crwdne174026:0]]></key>
+
+        <key alias="clickJackingCheckHeaderFound"><![CDATA[crwdns174028:0crwdne174028:0]]></key>
+        <key alias="clickJackingCheckHeaderNotFound"><![CDATA[crwdns174030:0crwdne174030:0]]></key>
+        <key alias="setHeaderInConfig">crwdns174032:0crwdne174032:0</key>
+        <key alias="clickJackingSetHeaderInConfigDescription">crwdns174034:0crwdne174034:0</key>
+        <key alias="clickJackingSetHeaderInConfigSuccess">crwdns174036:0crwdne174036:0</key>
+        <key alias="setHeaderInConfigError">crwdns174038:0%0crwdne174038:0</key>
+
+        <key alias="noSniffCheckHeaderFound"><![CDATA[crwdns174040:0crwdne174040:0]]></key>
+        <key alias="noSniffCheckHeaderNotFound"><![CDATA[crwdns174042:0crwdne174042:0]]></key>
+        <key alias="noSniffSetHeaderInConfigDescription">crwdns174044:0crwdne174044:0</key>
+        <key alias="noSniffSetHeaderInConfigSuccess">crwdns174046:0crwdne174046:0</key>
+
+        <key alias="hSTSCheckHeaderFound"><![CDATA[crwdns174048:0crwdne174048:0]]></key>
+        <key alias="hSTSCheckHeaderNotFound"><![CDATA[crwdns174050:0crwdne174050:0]]></key>
+        <key alias="hSTSSetHeaderInConfigDescription">crwdns174052:0crwdne174052:0</key>
+        <key alias="hSTSSetHeaderInConfigSuccess">crwdns174054:0crwdne174054:0</key>
+
+        <key alias="xssProtectionCheckHeaderFound"><![CDATA[crwdns174056:0crwdne174056:0]]></key>
+        <key alias="xssProtectionCheckHeaderNotFound"><![CDATA[crwdns174058:0crwdne174058:0]]></key>
+        <key alias="xssProtectionSetHeaderInConfigDescription">crwdns174060:0crwdne174060:0</key>
+        <key alias="xssProtectionSetHeaderInConfigSuccess">crwdns174062:0crwdne174062:0</key>
+
+        <!-- The following key get these tokens passed in:
+	    0: Comma delimitted list of headers found
+  	-->
+        <key alias="excessiveHeadersFound"><![CDATA[crwdns174064:0%0crwdne174064:0]]></key>
+        <key alias="excessiveHeadersNotFound">crwdns174066:0crwdne174066:0</key>
+
+        <key alias="smtpMailSettingsNotFound">crwdns174068:0crwdne174068:0</key>
+        <key alias="smtpMailSettingsHostNotConfigured">crwdns174070:0crwdne174070:0</key>
+        <key alias="smtpMailSettingsConnectionSuccess">crwdns174072:0crwdne174072:0</key>
+        <key alias="smtpMailSettingsConnectionFail">crwdns174074:0%0crwdnd174074:0%1crwdne174074:0</key>
+
+        <key alias="notificationEmailsCheckSuccessMessage"><![CDATA[crwdns174076:0%0crwdne174076:0]]></key>
+        <key alias="notificationEmailsCheckErrorMessage"><![CDATA[crwdns174078:0%0crwdne174078:0]]></key>
+        <key alias="scheduledHealthCheckEmailBody"><![CDATA[crwdns174080:0%0crwdnd174080:0%1crwdnd174080:0%2crwdne174080:0]]></key>
+        <key alias="scheduledHealthCheckEmailSubject">crwdns174082:0%0crwdne174082:0</key>
+
+        <key alias="tls12HealthCheckSuccess">crwdns174084:0crwdne174084:0</key>
+        <key alias="tls12HealthCheckWarn">crwdns174086:0crwdne174086:0</key>
+    </area>
+    <area alias="redirectUrls">
+        <key alias="disableUrlTracker">crwdns174088:0crwdne174088:0</key>
+        <key alias="enableUrlTracker">crwdns174090:0crwdne174090:0</key>
+        <key alias="originalUrl">crwdns174092:0crwdne174092:0</key>
+        <key alias="redirectedTo">crwdns174094:0crwdne174094:0</key>
+        <key alias="redirectUrlManagement">crwdns174096:0crwdne174096:0</key>
+        <key alias="panelInformation">crwdns174098:0crwdne174098:0</key>
+        <key alias="noRedirects">crwdns174100:0crwdne174100:0</key>
+        <key alias="noRedirectsDescription">crwdns174102:0crwdne174102:0</key>
+        <key alias="removeButton">crwdns174104:0crwdne174104:0</key>
+        <key alias="confirmRemove">crwdns174106:0%0crwdnd174106:0%1crwdne174106:0</key>
+        <key alias="redirectRemoved">crwdns174108:0crwdne174108:0</key>
+        <key alias="redirectRemoveError">crwdns174110:0crwdne174110:0</key>
+        <key alias="confirmDisable">crwdns174112:0crwdne174112:0</key>
+        <key alias="disabledConfirm">crwdns174114:0crwdne174114:0</key>
+        <key alias="disableError">crwdns174116:0crwdne174116:0</key>
+        <key alias="enabledConfirm">crwdns174118:0crwdne174118:0</key>
+        <key alias="enableError">crwdns174120:0crwdne174120:0</key>
+    </area>
+    <area alias="emptyStates">
+        <key alias="emptyDictionaryTree">crwdns174122:0crwdne174122:0</key>
+    </area>
+    <area alias="textbox">
+        <key alias="characters_left">crwdns174124:0crwdne174124:0</key>
+    </area>
+    <area alias="recycleBin">
+        <key alias="contentTrashed">crwdns174126:0{0}crwdnd174126:0{1}crwdne174126:0</key>
+        <key alias="mediaTrashed">crwdns174128:0{0}crwdnd174128:0{1}crwdne174128:0</key>
+        <key alias="itemCannotBeRestored">crwdns174130:0crwdne174130:0</key>
+        <key alias="itemCannotBeRestoredHelpText">crwdns174132:0crwdne174132:0</key>
+        <key alias="wasRestored">crwdns174134:0crwdne174134:0</key>
+    </area>
+</language>
